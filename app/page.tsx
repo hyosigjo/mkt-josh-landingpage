@@ -1,4 +1,5 @@
 import { Logo, LogoMark } from "./components/Logo";
+import { ContactForm } from "./components/ContactForm";
 
 const CONTACT_EMAIL = "hyosigjo18@gmail.com";
 const CONTACT_HREF = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(
@@ -234,7 +235,7 @@ export default function Home() {
             ))}
           </nav>
           <a
-            href={CONTACT_HREF}
+            href="#contact"
             className="rounded-full bg-olive px-5 py-2 text-sm font-bold text-cream transition-colors hover:bg-olive-deep"
           >
             상담하기
@@ -296,7 +297,7 @@ export default function Home() {
               문의가 들어오는 구조를 만듭니다.
             </p>
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
-              <CTAButton href={CONTACT_HREF}>무료로 상담하기 →</CTAButton>
+              <CTAButton href="#contact">무료로 상담하기 →</CTAButton>
               <CTAButton href="#plans" variant="secondary">
                 플랜 살펴보기
               </CTAButton>
@@ -467,7 +468,7 @@ export default function Home() {
                     ))}
                   </ul>
                   <a
-                    href={CONTACT_HREF}
+                    href="#contact"
                     className={`mt-8 inline-flex items-center justify-center rounded-full px-5 py-3 text-sm font-bold transition-colors ${
                       plan.highlight
                         ? "bg-olive text-cream hover:bg-olive-deep"
@@ -509,9 +510,9 @@ export default function Home() {
           </div>
         </section>
 
-        {/* ===== CTA banner ===== */}
-        <section className="px-5 pb-24">
-          <div className="relative mx-auto max-w-5xl overflow-hidden rounded-[2.5rem] bg-olive px-8 py-16 text-center text-cream sm:px-16">
+        {/* ===== Contact ===== */}
+        <section id="contact" className="scroll-mt-20 px-5 pb-24">
+          <div className="relative mx-auto max-w-6xl overflow-hidden rounded-[2.5rem] bg-olive px-6 py-12 text-cream sm:px-12 sm:py-16">
             <svg
               aria-hidden="true"
               className="pointer-events-none absolute -top-10 -right-10 h-48 w-48 text-lime/25"
@@ -520,21 +521,33 @@ export default function Home() {
             >
               <circle cx="100" cy="100" r="100" />
             </svg>
-            <h2 className="text-3xl font-extrabold sm:text-4xl">
-              지금 겪는 마케팅 고민,
-              <br />
-              일단 조쉬에게 물어보세요
-            </h2>
-            <p className="mx-auto mt-4 max-w-xl text-lg text-cream/80">
-              첫 상담은 무료입니다. 현재 상황을 들려주시면, 지금 단계에서
-              무엇부터 하면 좋을지 솔직하게 말씀드립니다.
-            </p>
-            <div className="mt-9">
-              <CTAButton href={CONTACT_HREF} variant="lime">
-                무료 상담 신청하기 →
-              </CTAButton>
+            <div className="relative grid items-center gap-10 lg:grid-cols-2">
+              <div>
+                <span className="mb-4 inline-block rounded-full bg-lime px-4 py-1.5 text-sm font-bold text-olive-deep">
+                  무료 상담
+                </span>
+                <h2 className="text-3xl font-extrabold sm:text-4xl">
+                  지금 겪는 마케팅 고민,
+                  <br />
+                  일단 조쉬에게 물어보세요
+                </h2>
+                <p className="mt-5 max-w-md text-lg leading-relaxed text-cream/80">
+                  첫 상담은 무료입니다. 현재 상황을 들려주시면, 지금 단계에서
+                  무엇부터 하면 좋을지 솔직하게 말씀드립니다.
+                </p>
+                <p className="mt-8 text-sm text-cream/60">
+                  폼이 어렵다면 이메일로 직접 보내주세요
+                  <br />
+                  <a
+                    href={CONTACT_HREF}
+                    className="mt-1 inline-block text-base font-bold text-lime hover:underline"
+                  >
+                    {CONTACT_EMAIL}
+                  </a>
+                </p>
+              </div>
+              <ContactForm />
             </div>
-            <p className="mt-6 text-sm text-cream/60">{CONTACT_EMAIL}</p>
           </div>
         </section>
       </main>
