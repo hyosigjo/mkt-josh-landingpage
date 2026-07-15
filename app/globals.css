@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #fbf1dc;
+  --color-cream-deep: #f5e6c4;
+  --color-tangerine: #ffb606;
+  --color-tangerine-deep: #f2a105;
+  --color-lime: #ddfa71;
+  --color-lime-soft: #ecffa8;
+  --color-olive: #44521d;
+  --color-olive-deep: #333f14;
+  --color-cocoa: #9e6c0a;
+  --color-ink: #2f3226;
+
+  --font-sans: "Pretendard Variable", Pretendard, -apple-system,
+    BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI",
+    "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  word-break: keep-all;
+}
+
+::selection {
+  background-color: var(--color-lime);
+  color: var(--color-olive-deep);
+}
