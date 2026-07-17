@@ -58,7 +58,7 @@ npm start
    2. 도메인 인증 전에는 `RESEND_FROM`을 비워두면 `onboarding@resend.dev`로 발송됩니다(테스트용).
    3. Resend에 `joshlife.co.kr` 도메인을 인증하면 `RESEND_FROM=마케터 조쉬 <josh@joshlife.co.kr>`처럼 브랜드 주소로 발송할 수 있습니다.
 3. **CRM 웹훅 설정**
-   - CRM 가이드에서 받은 인바운드 URL 전체(`https://<CRM-도메인>/api/inbound/lead?token=<INBOUND_TOKEN>`)를 `CRM_WEBHOOK_URL`에 넣습니다.
+   - CRM 가이드에서 받은 인바운드 URL 전체(`https://crm.joshlife.co.kr/api/inbound/lead?token=<INBOUND_TOKEN>`)를 `CRM_WEBHOOK_URL`에 넣습니다.
    - 토큰이 URL에 포함되므로 반드시 환경변수로만 관리하세요. 서버(API 라우트)에서 전송하기 때문에 브라우저에는 토큰이 노출되지 않습니다.
 
 두 채널 중 하나라도 성공하면 사용자에게는 접수 완료로 표시되고, 실패한 채널은 서버 로그(Vercel Functions 로그)에 기록됩니다. 스팸은 허니팟 필드로 1차 차단됩니다.
