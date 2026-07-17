@@ -174,22 +174,31 @@ export async function POST(request: Request) {
       : { channel: i === 0 ? "email" : "crm", status: "failed" as const }
   );
 
-  results.forEach((result) => {
-    if (result.status === "rejected") console.error(result.reason);
+  results.forEach((result, i) => {
+    if (result.status === "rejected")
+      console.error(`[contact] ${i === 0 ? "email" : "crm"} failed:`, result.reason);
   });
+
+  // 진단용 채널별 상태: sent(전송 성공) / failed(전송 실패, 로그 확인) / skipped(환경변수 미설정)
+  const channels = Object.fromEntries(
+    outcomes.map((o) => [o.channel, o.status])
+  );
 
   const delivered = outcomes.some((o) => o.status === "sent");
   if (!delivered) {
     // every configured channel failed, or nothing is configured yet
+    const allSkipped = outcomes.every((o) => o.status === "skipped");
     return NextResponse.json(
       {
         ok: false,
-        error:
-          "문의 접수 중 문제가 발생했습니다. 잠시 후 다시 시도하시거나 이메일로 직접 연락해주세요.",
+        error: allSkipped
+          ? "문의 채널이 아직 설정되지 않았습니다. 이메일로 직접 연락해주세요."
+          : "문의 접수 중 문제가 발생했습니다. 잠시 후 다시 시도하시거나 이메일로 직접 연락해주세요.",
+        channels,
       },
       { status: 502 }
     );
   }
 
-  return NextResponse.json({ ok: true });
+  return NextResponse.json({ ok: true, channels });
 }
