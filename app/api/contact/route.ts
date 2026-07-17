@@ -6,6 +6,7 @@ interface ContactPayload {
   name: string;
   company: string;
   email: string;
+  phone: string;
   plan: string;
   message: string;
   submittedAt: string;
@@ -32,6 +33,7 @@ async function sendEmail(payload: ContactPayload) {
     ["이름", payload.name],
     ["회사/서비스", payload.company || "-"],
     ["이메일", payload.email],
+    ["연락처", payload.phone || "-"],
     ["관심 플랜", payload.plan || "-"],
     ["문의 내용", payload.message],
   ]
@@ -75,15 +77,25 @@ async function sendToCrm(payload: ContactPayload) {
   const webhookUrl = process.env.CRM_WEBHOOK_URL;
   if (!webhookUrl) return { channel: "crm", status: "skipped" as const };
 
+  // CRM 인바운드 가이드 형식: FormData(name, company, email, phone, message)를
+  // token 쿼리 파라미터가 포함된 URL로 POST
+  const form = new FormData();
+  form.set("name", payload.name);
+  form.set("company", payload.company);
+  form.set("email", payload.email);
+  form.set("phone", payload.phone);
+  form.set(
+    "message",
+    payload.plan
+      ? `${payload.message}\n\n[관심 플랜] ${payload.plan}`
+      : payload.message
+  );
+  form.set("source", payload.source);
+  form.set("submittedAt", payload.submittedAt);
+
   const res = await fetch(webhookUrl, {
     method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      ...(process.env.CRM_WEBHOOK_SECRET
-        ? { Authorization: `Bearer ${process.env.CRM_WEBHOOK_SECRET}` }
-        : {}),
-    },
-    body: JSON.stringify(payload),
+    body: form,
   });
 
   if (!res.ok) {
@@ -112,6 +124,7 @@ export async function POST(request: Request) {
   const name = typeof body.name === "string" ? body.name.trim() : "";
   const company = typeof body.company === "string" ? body.company.trim() : "";
   const email = typeof body.email === "string" ? body.email.trim() : "";
+  const phone = typeof body.phone === "string" ? body.phone.trim() : "";
   const plan = typeof body.plan === "string" ? body.plan.trim() : "";
   const message = typeof body.message === "string" ? body.message.trim() : "";
 
@@ -127,7 +140,12 @@ export async function POST(request: Request) {
       { status: 400 }
     );
   }
-  if (name.length > 100 || company.length > 200 || message.length > 5000) {
+  if (
+    name.length > 100 ||
+    company.length > 200 ||
+    phone.length > 50 ||
+    message.length > 5000
+  ) {
     return NextResponse.json(
       { ok: false, error: "입력 길이가 너무 깁니다." },
       { status: 400 }
@@ -138,6 +156,7 @@ export async function POST(request: Request) {
     name,
     company,
     email,
+    phone,
     plan,
     message,
     submittedAt: new Date().toISOString(),

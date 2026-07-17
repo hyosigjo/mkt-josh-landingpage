@@ -122,21 +122,39 @@ export function ContactForm() {
         </div>
       </div>
 
-      <div>
-        <label
-          htmlFor="contact-email"
-          className="mb-1.5 block text-sm font-bold text-olive-deep"
-        >
-          이메일 <span className="text-tangerine-deep">*</span>
-        </label>
-        <input
-          id="contact-email"
-          name="email"
-          type="email"
-          required
-          placeholder="reply@company.com"
-          className={inputClass}
-        />
+      <div className="grid gap-4 sm:grid-cols-2">
+        <div>
+          <label
+            htmlFor="contact-email"
+            className="mb-1.5 block text-sm font-bold text-olive-deep"
+          >
+            이메일 <span className="text-tangerine-deep">*</span>
+          </label>
+          <input
+            id="contact-email"
+            name="email"
+            type="email"
+            required
+            placeholder="reply@company.com"
+            className={inputClass}
+          />
+        </div>
+        <div>
+          <label
+            htmlFor="contact-phone"
+            className="mb-1.5 block text-sm font-bold text-olive-deep"
+          >
+            연락처
+          </label>
+          <input
+            id="contact-phone"
+            name="phone"
+            type="tel"
+            maxLength={50}
+            placeholder="010-0000-0000"
+            className={inputClass}
+          />
+        </div>
       </div>
 
       <div>
