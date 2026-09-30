@@ -5,7 +5,6 @@ updated: '2023-03-28T18:19:51.000Z'
 tags:
   - insight
 excerpt: 고객의 메일함에 좀 더 기분좋게 노크하는 방법
-cover: https://blog.joshlife.co.kr/content/images/2023/03/--------------001.png
 coverAlt: 콜드메일 작성법 - 따뜻한 아메리카노 같은 콜드메일
 coverCaption: 그림처럼 후끈후끈한 콜드메일을 보낼 수 있다면 얼마나 좋을까?
 ghostStatus: draft

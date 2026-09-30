@@ -15,7 +15,7 @@ coverAlt: 만약 감동적인 이야기에 공식이 있다면? <픽사 스토�
 
 창의적이고 상상력 충만한 설정 뿐 아니라 '스토리텔링'이 탁월하다는 생각을 하곤 했는데, 마케터 커뮤니터 워스픽의 첫 번째 책 모임 주제로 **<픽사 스토리텔링>**이라는 책을 알게 되었습니다.
 
-<figure><img src="/blog/images/2023/09/image-20.png" alt="멋진 문장들이 많아서, 읽는 재미가 있었습니다 :)" loading="lazy"><figcaption>멋진 문장들이 많아서, 읽는 재미가 있었습니다 :)</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-20.webp" alt="멋진 문장들이 많아서, 읽는 재미가 있었습니다 :)" loading="lazy"><figcaption>멋진 문장들이 많아서, 읽는 재미가 있었습니다 :)</figcaption></figure>
 
 ### 멋진 스토리를 만드는 9가지 키워드
 
@@ -32,7 +32,7 @@ coverAlt: 만약 감동적인 이야기에 공식이 있다면? <픽사 스토�
 
 아무래도 픽사의 대표였기 때문일까요? 스티브 잡스에 대한 엄청난 존경심이 느껴지곤 했어요.
 
-<figure><img src="/blog/images/2023/09/image-22.png" alt="각 장의 마지막에선 좋은 질문을 던져줘서 생각을 정리하기 편했습니다." loading="lazy"><figcaption>각 장의 마지막에선 좋은 질문을 던져줘서 생각을 정리하기 편했습니다.</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-22.webp" alt="각 장의 마지막에선 좋은 질문을 던져줘서 생각을 정리하기 편했습니다." loading="lazy"><figcaption>각 장의 마지막에선 좋은 질문을 던져줘서 생각을 정리하기 편했습니다.</figcaption></figure>
 
 ### 어김 없이 등장하는 '글쓰기 불변의 법칙'
 

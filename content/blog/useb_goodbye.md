@@ -54,11 +54,11 @@ coverAlt: 월간 조쉬 마케터 회고 - 23년 1월 - Part 1.
 대신 우리 회사 사람들은 링크드인 업데이트는 바로 해버렸다.  
 유스비 사람들은 링크드인을 안하기도 하고, 옮길 곳이 정해졌으니 채용 관련된 매체에서는 눈을 떼고 싶었다.
 
-![](/blog/images/external/157044b6af2f.png)
+![](/blog/images/external/157044b6af2f.webp)
 
-![](/blog/images/external/79c681918c93.png)
+![](/blog/images/external/79c681918c93.webp)
 
-<figure><img src="/blog/images/external/498b926b7355.png" alt="" loading="lazy"><figcaption>과분한 선물과 롤링페이퍼, 페어웰 파티..!</figcaption></figure>
+<figure><img src="/blog/images/external/498b926b7355.webp" alt="" loading="lazy"><figcaption>과분한 선물과 롤링페이퍼, 페어웰 파티..!</figcaption></figure>
 
 그럼에도 마지막을 응원해주며 함께 식사도 하고, 좋은 선물들도 남겨주신 덕분에 행복한 퇴사를 할 수 있었다.
 
@@ -71,4 +71,4 @@ coverAlt: 월간 조쉬 마케터 회고 - 23년 1월 - Part 1.
 나는 없지만 23년에도 유스비는 무조건 잘되어야 한다.  
 내가 있었던 곳이니까!
 
-<figure><img src="/blog/images/2023/08/-------.png" alt="유스비 굿 바이" loading="lazy"><figcaption>굿바이 유스비!</figcaption></figure>
+<figure><img src="/blog/images/2023/08/-------.webp" alt="유스비 굿 바이" loading="lazy"><figcaption>굿바이 유스비!</figcaption></figure>

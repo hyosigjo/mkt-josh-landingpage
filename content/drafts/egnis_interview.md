@@ -17,7 +17,7 @@ ghostStatus: members-only
 
 또한 본 콘텐츠는 현재 저의 직무와는 많이 다르지만, 최근 F&B 분야에서 두드러진 성장세를 보이며 투자유치까지 성공한 ['이그니스 콘텐츠 마케터'](https://egnis.career.greetinghr.com/o/84065) 채용공고를 기준으로 작성했습니다.
 
-<figure><a href="https://egnis.career.greetinghr.com/o/84065"><img src="/blog/images/2023/10/image-4.png" alt="이커머스 업계에서 정말 빠르게 성장하고 있는 이그니스의 콘텐츠 마케터 채용공고" loading="lazy"></a><figcaption>이커머스 업계에서 정말 빠르게 성장하고 있는 이그니스의 콘텐츠 마케터 채용공고</figcaption></figure>
+<figure><a href="https://egnis.career.greetinghr.com/o/84065"><img src="/blog/images/2023/10/image-4.webp" alt="이커머스 업계에서 정말 빠르게 성장하고 있는 이그니스의 콘텐츠 마케터 채용공고" loading="lazy"></a><figcaption>이커머스 업계에서 정말 빠르게 성장하고 있는 이그니스의 콘텐츠 마케터 채용공고</figcaption></figure>
 
 ## 1\. 회사를 고르는 기본적인 기준
 
@@ -44,7 +44,7 @@ ghostStatus: members-only
 
 이런 환경은 기업 규모가 크더라도 마케터가 성장하기 좋은 환경은 아닐 수 있습니다. **다양한 브랜드와 제품, 채널을 시도하고 그런 의사결정이 받아들여지는 곳**을 찾는 것을 추천드립니다.
 
-<figure><img src="/blog/images/2023/10/image-6.png" alt="새로운 브랜드를 기획, 피봇을 통한 성과 창출, 성장하기 좋은 조직!" loading="lazy"><figcaption>새로운 브랜드를 기획, 피봇을 통한 성과 창출, 성장하기 좋은 조직!</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-6.webp" alt="새로운 브랜드를 기획, 피봇을 통한 성과 창출, 성장하기 좋은 조직!" loading="lazy"><figcaption>새로운 브랜드를 기획, 피봇을 통한 성과 창출, 성장하기 좋은 조직!</figcaption></figure>
 
 ## 2\. 채용 공고를 통해 '원하는 직무역량' 확인 하기
 
@@ -65,18 +65,18 @@ ghostStatus: members-only
     1) 인스타그램 : [클룹](https://www.instagram.com/cloop__official/), [랩노쉬](https://www.instagram.com/labnosh_/), [한끼통살](https://www.instagram.com/hankki_tongsal/) 등 주요 브랜드 인스타 운영  
     2) 자사몰(카페24 기반) : 클룹은 [별도 운영](https://www.cloop.co.kr/index.html), 랩노쉬와 한끼통살은 [에잇템몰](https://atemshop.com/index.html)
 
-<figure><img src="/blog/images/2023/10/image-8.png" alt="브랜드 SNS 피드는 인스타그램을 이야기하는 것 같네요" loading="lazy"><figcaption>브랜드 SNS 피드는 인스타그램을 이야기하는 것 같네요.</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-8.webp" alt="브랜드 SNS 피드는 인스타그램을 이야기하는 것 같네요" loading="lazy"><figcaption>브랜드 SNS 피드는 인스타그램을 이야기하는 것 같네요.</figcaption></figure>
 
 2.  **페이드 미디어**  
     \- [페이스북 광고 라이브러리](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=KR&media_type=all)에서 광고 소재 확인 가능
 
-<figure><img src="/blog/images/2023/10/image-9.png" alt="클룹의 광고 소구점은 제로 칼로리, 탄산수와의 비교, 만원 수준의 가격 등으로 추정됩니다." loading="lazy"><figcaption>클룹의 광고 소구점은 제로 칼로리, 탄산수와의 비교, 만원 수준의 가격 등으로 추정됩니다.</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-9.webp" alt="클룹의 광고 소구점은 제로 칼로리, 탄산수와의 비교, 만원 수준의 가격 등으로 추정됩니다." loading="lazy"><figcaption>클룹의 광고 소구점은 제로 칼로리, 탄산수와의 비교, 만원 수준의 가격 등으로 추정됩니다.</figcaption></figure>
 
 3.  **언드 미디어**  
     \- 주요 검색엔진, SNS에 브랜드명 검색  
     \- 에잇템몰 헤더의 **'정찬성 에너지드링크'** 검색어까지 추가 확인
 
-<figure><img src="/blog/images/2023/10/image-10.png" alt="온드 미디어에서 언드 미디어 전략의 힌트를 찾을 수 있습니다." loading="lazy"><figcaption>온드 미디어에서 언드 미디어 전략의 힌트를 찾을 수 있습니다.</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-10.webp" alt="온드 미디어에서 언드 미디어 전략의 힌트를 찾을 수 있습니다." loading="lazy"><figcaption>온드 미디어에서 언드 미디어 전략의 힌트를 찾을 수 있습니다.</figcaption></figure>
 
 > 💡 ****채용공고에서 이야기한 Admin, GA란?****  
 > 위 콘텐츠 채널의 구성을 볼 때 데이터를 확인할 수 있는 관리자페이지는 아래의 3가지로 추정됩니다.  
@@ -93,7 +93,7 @@ ghostStatus: members-only
 2\. 카페24 자사몰인 클룹과 에잇템몰에서 구매 전환을 하도록 만드는 것(탐색, 구매, 재구매)  
 3\. 인플루언서, 체험단 등을 비롯한 프로그램으로 이를 가속화할 것(탐색, 추천)
 
-<figure><img src="/blog/images/external/9e104546f8fd.png" alt="AARRR 모델로 보는 이커머스 마케팅" loading="lazy"><figcaption>AARRR 모델로 보는 이커머스 마케팅</figcaption></figure>
+<figure><img src="/blog/images/external/9e104546f8fd.webp" alt="AARRR 모델로 보는 이커머스 마케팅" loading="lazy"><figcaption>AARRR 모델로 보는 이커머스 마케팅</figcaption></figure>
 
 즉, 직무명은 **이그니스 콘텐츠 마케터**라고 기재되어 있지만 실제 R&R에 있어서는 자사몰을 키우기 위해 **'그로스 마케팅', 'D2C(자사몰) 전략', '퍼포먼스 마케팅'**에 대한 전반적인 이해도를 요구한다는 것을 알 수 있습니다.
 
@@ -124,7 +124,7 @@ ghostStatus: members-only
 
 오프라인, 오픈마켓 등 다양한 유통 채널을 가지고 있고 더 큰 확장을 준비하고 있지만 **구매 전환과 재구매의 핵심 채널은 자사몰**이라는 인식을 가지고 있다는 추측을 해볼 수 있습니다.
 
-<figure><img src="/blog/images/2023/10/image-13.png" alt="구글 / 이그니스 인터뷰 검색 결과" loading="lazy"><figcaption>구글 / 이그니스 인터뷰 검색 결과</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-13.webp" alt="구글 / 이그니스 인터뷰 검색 결과" loading="lazy"><figcaption>구글 / 이그니스 인터뷰 검색 결과</figcaption></figure>
 
 또한 **'브랜드 키워드 + 인터뷰'** 와 같은 키워드로 검색하면 취업 후 함께 일하게 될 실무자들의 이야기 혹은 최근 기업의 방향성을 확인할 수 있는 자료들을 볼 수 있습니다.
 
@@ -162,7 +162,7 @@ ghostStatus: members-only
 
 특히 해당 브랜드의 인사담당자가 링크드인 같은 채널로 활동중이라면 직접 DM을 걸어 **지원과정에서 궁금한 점**을 남기거나 **인재풀 등록을 요청**하는 방식으로 접점을 늘릴 수 있습니다.
 
-<figure><img src="/blog/images/2023/10/image-15.png" alt="링크드인에서 검색만 하면 HR 담당자와 접점을 만들 수 있습니다" loading="lazy"><figcaption>링크드인에서 검색만 하면 HR 담당자와 접점을 만들 수 있습니다</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-15.webp" alt="링크드인에서 검색만 하면 HR 담당자와 접점을 만들 수 있습니다" loading="lazy"><figcaption>링크드인에서 검색만 하면 HR 담당자와 접점을 만들 수 있습니다</figcaption></figure>
 
 **이그니스 채용담당자 유보비님 링크드인**  
 \-> [https://www.linkedin.com/in/bobiyu/](https://www.linkedin.com/in/bobiyu/)

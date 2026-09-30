@@ -23,7 +23,7 @@ AI 기술로 이커머스 브랜드의 매출 향상을 도와드리는 인덴�
 
 그리고 실제로 **공간, 기획, 굿즈, 사람 네 가지의 요소** 모두 세심하게 설계된 2시간을 보냈습니다.
 
-<figure><img src="/blog/images/2024/08/image-4-1.png" alt="신청부터 귀가까지, 모든 경험이 잘 설계된 이벤트였습니다." loading="lazy"><figcaption>신청부터 귀가까지, 모든 경험이 잘 설계된 이벤트였습니다.</figcaption></figure>
+<figure><img src="/blog/images/2024/08/image-4-1.webp" alt="신청부터 귀가까지, 모든 경험이 잘 설계된 이벤트였습니다." loading="lazy"><figcaption>신청부터 귀가까지, 모든 경험이 잘 설계된 이벤트였습니다.</figcaption></figure>
 
 ## 의자마다 스토리가 있다, 다양한 체험이 담긴 '공간'
 
@@ -32,7 +32,7 @@ AI 기술로 이커머스 브랜드의 매출 향상을 도와드리는 인덴�
 대표제품인 T-50을 중심으로 다양한 시디즈의 제품들을 경험할 수 있었는데요.  
 데스크마다 설치된 태블릿에서 의자를 세팅하고, 올바른 사용방법과 기획의도를 볼 수 있었던 점이 흥미로웠습니다.
 
-<figure><img src="/blog/images/2024/08/image-3.png" alt="태블릿으로 제품에 대한 안내를 따로 받을 수 있는 점이 신기했어요." loading="lazy"><figcaption>태블릿으로 제품에 대한 안내를 따로 받을 수 있는 점이 신기했어요.</figcaption></figure>
+<figure><img src="/blog/images/2024/08/image-3.webp" alt="태블릿으로 제품에 대한 안내를 따로 받을 수 있는 점이 신기했어요." loading="lazy"><figcaption>태블릿으로 제품에 대한 안내를 따로 받을 수 있는 점이 신기했어요.</figcaption></figure>
 
 특히 좋았던 부분은 **단순히 고가의 제품이라고 해서 모든 면이 우월한 게 아니라**, 기획의도에 따라 알맞은 타겟이 있다는 점을 솔직하게 밝혔다는 점이었습니다.
 
@@ -43,7 +43,7 @@ AI 기술로 이커머스 브랜드의 매출 향상을 도와드리는 인덴�
 강의 공간으로서도 훌륭했습니다.  
 아래에서 소개할 메인 프로그램의 진행에 있어서도 넓은 공간과 편안한 의자 덕분에 2시간 내내 이리저리 움직이면서도 편하게 프로그램을 경험할 수 있었네요 😀
 
-<figure><img src="/blog/images/2024/08/image-2.png" alt="전시와 강의공간, 두 가지 역할을 수행하는 공간 / 출처 : 시디즈" loading="lazy"><figcaption>전시와 강의, 두 가지 역할을 수행하는 공간 / 출처 : 시디즈</figcaption></figure>
+<figure><img src="/blog/images/2024/08/image-2.webp" alt="전시와 강의공간, 두 가지 역할을 수행하는 공간 / 출처 : 시디즈" loading="lazy"><figcaption>전시와 강의, 두 가지 역할을 수행하는 공간 / 출처 : 시디즈</figcaption></figure>
 
 ## 마케터의 의자 - 많은 생각을 하게 해준 '강연'
 
@@ -65,7 +65,7 @@ AI 기술로 이커머스 브랜드의 매출 향상을 도와드리는 인덴�
 그 중에서도 **'마케팅'**과 **'나의 인생'** 두 가지 주제는 매년마다 꼭 생각하던 주제였기에 더욱 흥미로웠습니다.  
 함께 이야기 나눴던 다양한 분야의 마케터 분들의 생각과 이야기를 나누며 공통점과 차이점을 찾아가는 과정도 즐거웠습니다.
 
-<figure><img src="/blog/images/2024/08/--------------------.png" alt="다양한 사람의 의견을 주고 받은 경험이 스토리가 되어 더욱 오래 기억에 남을 것 같습니다." loading="lazy"><figcaption>다양한 사람의 의견을 주고 받은 경험이 스토리가 되어 더욱 오래 기억에 남을 것 같습니다.</figcaption></figure>
+<figure><img src="/blog/images/2024/08/--------------------.webp" alt="다양한 사람의 의견을 주고 받은 경험이 스토리가 되어 더욱 오래 기억에 남을 것 같습니다." loading="lazy"><figcaption>다양한 사람의 의견을 주고 받은 경험이 스토리가 되어 더욱 오래 기억에 남을 것 같습니다.</figcaption></figure>
 
 마지막으로는 토론을 통해 **'마케터의 발전'**을 위한 의자를 직접 설계하는 시간을 가졌는데요.
 
@@ -82,14 +82,14 @@ AI 기술로 이커머스 브랜드의 매출 향상을 도와드리는 인덴�
 그러다보니, 교육으로서 완성도가 참 높다는 인상을 받았는데요.  
 ['폴앤마크'](https://paulnmark.com/aboutus) 라는 교육 기업이 있다는 것을 알게 된 것도 이번 이벤트에서 얻은 수확이이었습니다.
 
-<figure><img src="/blog/images/2024/08/image-6-1.png" alt="마케팅은 '보물찾기' / 여러분의 생각은 어떤가요?" loading="lazy"><figcaption>마케팅은 '보물찾기' / 여러분의 생각은 어떤가요?</figcaption></figure>
+<figure><img src="/blog/images/2024/08/image-6-1.webp" alt="마케팅은 '보물찾기' / 여러분의 생각은 어떤가요?" loading="lazy"><figcaption>마케팅은 '보물찾기' / 여러분의 생각은 어떤가요?</figcaption></figure>
 
 ## 시디즈 브랜드 팀을 리스펙하게 만든 '굿즈'
 
 이번 이벤트는 참여한 것만으로도 정말 많은 굿즈를 기념품으로 나눠주셨는데요.  
 시디즈 제품이 아니더라도 **의자의 경험을 좋게 만들어주는** 신박한 구성이 마음에 들었습니다.
 
-<figure><img src="/blog/images/2024/08/image-8.png" alt="시디즈의 철학이 담긴 다양한 굿즈" loading="lazy"><figcaption>시디즈의 브랜드 철학이 담긴 다양한 굿즈</figcaption></figure>
+<figure><img src="/blog/images/2024/08/image-8.webp" alt="시디즈의 철학이 담긴 다양한 굿즈" loading="lazy"><figcaption>시디즈의 브랜드 철학이 담긴 다양한 굿즈</figcaption></figure>
 
 -   휴대성이 좋은 텀블러와 볼펜
 -   의자에 뿌리는 전용 향수
@@ -102,7 +102,7 @@ AI 기술로 이커머스 브랜드의 매출 향상을 도와드리는 인덴�
 개인적으로 '**성공적인 브랜드 마케팅은 어느 정도 광기가 느껴져야만 한다'**라고 생각하는데요.  
 시디즈의 굿즈는 의자에 진심인 것을 넘어 *'의자한테 이렇게까지 할 수 있다고?'*라는 인상을 심어줬습니다.
 
-<figure><img src="/blog/images/2024/08/image-5.png" alt="좋은 의자의 기준, 시디즈 T-50 프라모델" loading="lazy"><figcaption>좋은 의자의 기준, 시디즈 T-50 프라모델</figcaption></figure>
+<figure><img src="/blog/images/2024/08/image-5.webp" alt="좋은 의자의 기준, 시디즈 T-50 프라모델" loading="lazy"><figcaption>좋은 의자의 기준, 시디즈 T-50 프라모델</figcaption></figure>
 
 ## 오늘까지의, 앞으로의 시디즈를 만들어가는 '사람'
 
@@ -115,7 +115,7 @@ AI 기술로 이커머스 브랜드의 매출 향상을 도와드리는 인덴�
 
 그리고 이런 이벤트를 기획하고 처음부터 끝까지 세심하게 설계한 '시디즈 브랜드 마케팅팀'에게도 많은 것을 배웠습니다 👍🏻
 
-<figure><img src="/blog/images/2024/08/image-7-1.png" alt="앞으로가 더 기대되는 브랜드 시디즈!" loading="lazy"><figcaption>앞으로가 더 기대되는 브랜드 시디즈!</figcaption></figure>
+<figure><img src="/blog/images/2024/08/image-7-1.webp" alt="앞으로가 더 기대되는 브랜드 시디즈!" loading="lazy"><figcaption>앞으로가 더 기대되는 브랜드 시디즈!</figcaption></figure>
 
 ## 총평 : 시디즈라는 브랜드를 다시 알게 된 계기
 

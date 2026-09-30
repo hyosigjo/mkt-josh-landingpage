@@ -89,7 +89,7 @@ coverAlt: '조쉬의 ''마케터 헤이븐''을 소개합니다 :)'
 
 언젠가 마케터 헤이븐의 콘텐츠들을 묶어 오래오래 읽힐 만한 **마케터 입문서를 출판하는 것을 목표**로 하고 있습니다 😃
 
-<figure><img src="/blog/images/2024/02/image.png" alt="누군가의 문제를 해결해주는 콘텐츠와 책을 만들고 싶습니다." loading="lazy"><figcaption>누군가의 문제를 해결해주는 콘텐츠와 책을 만들고 싶습니다.</figcaption></figure>
+<figure><img src="/blog/images/2024/02/image.webp" alt="누군가의 문제를 해결해주는 콘텐츠와 책을 만들고 싶습니다." loading="lazy"><figcaption>누군가의 문제를 해결해주는 콘텐츠와 책을 만들고 싶습니다.</figcaption></figure>
 
 ## 마케터 헤이븐과 함께하고 싶으시다면 ❓
 

@@ -24,7 +24,7 @@ MBTI 검사와는 다르게 딱 한번만 할 수 있고, 질문의 수와 제�
 그리고 **인터넷으로 코드를 사는 것보단 책을 추천**합니다.  
 우선 가격이 같을 뿐 아니라 해설서를 가지고 있으면 다른 사람의 특성을 알게 되었을때 찾아보기 편합니다 :)
 
-<figure><img src="/blog/images/2023/08/image-16.png" alt="강점혁명 테스트 결과" loading="lazy"><figcaption>강점 테스트 결과 - 키워드를 중심으로 테마별 특성을 알려줍니다.</figcaption></figure>
+<figure><img src="/blog/images/2023/08/image-16.webp" alt="강점혁명 테스트 결과" loading="lazy"><figcaption>강점 테스트 결과 - 키워드를 중심으로 테마별 특성을 알려줍니다.</figcaption></figure>
 
 > 😃 **스트렝스 파인더로 찾은 나의 강점테마 5가지**  
 > 1\. 전략(Strategic)  
@@ -42,7 +42,7 @@ MBTI 검사와는 다르게 딱 한번만 할 수 있고, 질문의 수와 제�
 
 마찬가지로 본인이 가지고 있는 강점을 살려 새로운 역량으로 발전시키고 싶은 분들에게 이 책을 적극 추천합니다.
 
-<figure><img src="/blog/images/2023/08/image-17.png" alt="나의 첫 번째 강점, 전략 테마를 극대화하기 위한 가이드" loading="lazy"><figcaption>나의 첫 번째 강점, 전략 테마를 극대화하기 위한 가이드</figcaption></figure>
+<figure><img src="/blog/images/2023/08/image-17.webp" alt="나의 첫 번째 강점, 전략 테마를 극대화하기 위한 가이드" loading="lazy"><figcaption>나의 첫 번째 강점, 전략 테마를 극대화하기 위한 가이드</figcaption></figure>
 
 ## 이 책이 특히 좋은 이유, '응원의 메시지'
 
@@ -59,4 +59,4 @@ MBTI 검사와는 다르게 딱 한번만 할 수 있고, 질문의 수와 제�
 
 아마도 제 블로그의 독자, 커피챗을 요청하신 분들부터 시작하게 될 것 같네요. 생산적인 대화를 좋아하시는 분들이라면 앞으로도 언제든지 채팅으로 말을 걸어주시면 좋겠습니다.
 
-<figure><img src="/blog/images/2023/08/image-18.png" alt="응원하고 싶은 사람을 만날 때마다 선물해야겠다." loading="lazy"><figcaption>응원하고 싶은 사람을 만날 때마다 선물해야겠다.</figcaption></figure>
+<figure><img src="/blog/images/2023/08/image-18.webp" alt="응원하고 싶은 사람을 만날 때마다 선물해야겠다." loading="lazy"><figcaption>응원하고 싶은 사람을 만날 때마다 선물해야겠다.</figcaption></figure>

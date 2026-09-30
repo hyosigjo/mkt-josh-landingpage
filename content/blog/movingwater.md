@@ -5,7 +5,7 @@ updated: '2023-08-02T15:57:03.000Z'
 tags:
   - books
 excerpt: 지금 필요한 건 바로 '행복해질 용기'
-cover: /blog/images/2023/08/--------.png
+cover: /blog/images/2023/08/--------.webp
 coverAlt: '언젠간 잘리고, 회사는 망하고, 우리는 죽는다! - 조쉬의 책 읽기'
 ---
 

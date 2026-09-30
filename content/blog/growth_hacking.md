@@ -29,7 +29,7 @@ IT 스타트업 인덴트코퍼레이션의 B2B 그로스 마케터 조쉬 입�
 > 🎯 **리드 젠(Lead generation)이란?**  
 > 일반적으로 B2B 제품은 구매 전에 영업팀과의 협의 과정을 거치기 때문에 마케터가 바로 매출을 발생시키지 않고 '양질의 잠재고객(Lead)'을 많이 데려오는 것(Generation)을 목표로 합니다.
 
-<figure><img src="/blog/images/2023/10/image-2.png" alt="나도 모르는 사이 아마추어 B2B 기업의 방식을 따를뻔 했다." loading="lazy"><figcaption>나도 모르는 사이 아마추어 B2B 기업의 방식을 따를뻔 했다.</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-2.webp" alt="나도 모르는 사이 아마추어 B2B 기업의 방식을 따를뻔 했다." loading="lazy"><figcaption>나도 모르는 사이 아마추어 B2B 기업의 방식을 따를뻔 했다.</figcaption></figure>
 
 ## 더 큰 성장을 위해서는 마케터의 영역을 제한하지 말 것
 
@@ -48,7 +48,7 @@ IT 스타트업 인덴트코퍼레이션의 B2B 그로스 마케터 조쉬 입�
 
 개발과 디자인, 세일즈까지! 그로스 마케터로서 성장한다는 건 단순히 마케팅 자체에만 집착해선 이룰 수 없는 목표인 것 같습니다.
 
-<figure><img src="/blog/images/2023/10/image-3.png" alt="당시엔 정말 힘들었지만 끝내고 보니 뿌듯했던 홈페이지 리뉴얼 작업!" loading="lazy"><figcaption>당시엔 정말 힘들었지만 끝내고 보니 뿌듯했던 홈페이지 리뉴얼 작업!</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-3.webp" alt="당시엔 정말 힘들었지만 끝내고 보니 뿌듯했던 홈페이지 리뉴얼 작업!" loading="lazy"><figcaption>당시엔 정말 힘들었지만 끝내고 보니 뿌듯했던 홈페이지 리뉴얼 작업!</figcaption></figure>
 
 ## '그로스 마케터', '스타트업 종사자'에게 기본적으로 추천
 

@@ -202,7 +202,7 @@ excerpt: "“홀아비 냄새”라는 단어는 좀 잔인합니다.\n근데 �
 
 ---
 
-<figure><img src="/blog/images/2026/01/image.png" alt="지갑에서 카드 꺼내듯 꺼내 쓰면 누가 봐도 “땀냄새 티슈” 느낌이 아니라서 티가 안납니다." loading="lazy"><figcaption>지갑에서 카드 꺼내듯 꺼내 쓰면 누가 봐도 “땀냄새 티슈” 느낌이 아니라서 티가 안납니다.</figcaption></figure>
+<figure><img src="/blog/images/2026/01/image.webp" alt="지갑에서 카드 꺼내듯 꺼내 쓰면 누가 봐도 “땀냄새 티슈” 느낌이 아니라서 티가 안납니다." loading="lazy"><figcaption>지갑에서 카드 꺼내듯 꺼내 쓰면 누가 봐도 “땀냄새 티슈” 느낌이 아니라서 티가 안납니다.</figcaption></figure>
 
 ## 7) 마지막은 “시원함 + 향 지속력”이 이깁니다
 
@@ -267,7 +267,7 @@ excerpt: "“홀아비 냄새”라는 단어는 좀 잔인합니다.\n근데 �
 > [👉  
 > “티 안 나게 한 장씩 꺼내 쓰는 카드형 데오드란트 티슈 보러가기 →”](https://bclose.kr/product/%EB%B9%84%ED%81%B4%EB%A1%9C%EC%A6%88-%EB%8D%B0%EC%98%A4-%EC%99%80%EC%9E%85%EC%8A%A4/10/category/1/display/2/?icid=MAIN.product_listmain_1)
 
-<figure><img src="/blog/images/2026/01/image-1.png" alt="회사/외출 상황에서는 티 안 나게 해결할 수 있는 응급템 하나 챙기기" loading="lazy"><figcaption>회사/외출 상황에서는 <strong>티 안 나게 해결할 수 있는 응급템</strong> 하나 챙기기</figcaption></figure>
+<figure><img src="/blog/images/2026/01/image-1.webp" alt="회사/외출 상황에서는 티 안 나게 해결할 수 있는 응급템 하나 챙기기" loading="lazy"><figcaption>회사/외출 상황에서는 <strong>티 안 나게 해결할 수 있는 응급템</strong> 하나 챙기기</figcaption></figure>
 
 ---
 

@@ -18,7 +18,7 @@ ghostStatus: draft
 
 > 성과가 높다면 스스로 머리를 쓰다듬으시면 되고, 낮으면 이메일 DB에 문제가 있는 것이라 생각하시면 됩니다.
 
-<figure><img src="/blog/images/2023/09/image-12.png" alt="이메일 캠페인을 준비하는 우리의 마음가짐 / 출처 : 최고심" loading="lazy"><figcaption>이메일 캠페인을 준비하는 우리의 마음가짐 / 출처 : 최고심</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-12.webp" alt="이메일 캠페인을 준비하는 우리의 마음가짐 / 출처 : 최고심" loading="lazy"><figcaption>이메일 캠페인을 준비하는 우리의 마음가짐 / 출처 : 최고심</figcaption></figure>
 
 ## 이메일 마케팅, B2B 마케터에게 특히 중요한 이유
 
@@ -63,7 +63,7 @@ B2C에서의 CRM, 메신저에서 발송하는 푸쉬 메시지가 있다면 B2B
 
 그러니 반대로 **'사람이 보내는 느낌**'에 **'너 이런거 혹시 좋아하지 않니?'** 같은 메시지를 싣는게 후속 팔로업까지 고려하면 훨씬 긍정적인 반응을 이끌어낼 수 있습니다.
 
-<figure><img src="/blog/images/2023/09/image-13.png" alt="첫 번째 제안에 바로 종신 계약을 체결한 슬램덩크 사례 " loading="lazy"><figcaption>첫 번째 제안에 바로 종신 계약을 체결한 슬램덩크 Case Study</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-13.webp" alt="첫 번째 제안에 바로 종신 계약을 체결한 슬램덩크 사례 " loading="lazy"><figcaption>첫 번째 제안에 바로 종신 계약을 체결한 슬램덩크 Case Study</figcaption></figure>
 
 ### 두 번째 메일 : "저번 주에 보내드린 거 혹시 보셨나요 ^^?"
 
@@ -121,7 +121,7 @@ B2C에서의 CRM, 메신저에서 발송하는 푸쉬 메시지가 있다면 B2B
 
 자동 이메일도 마찬가지로 **통보성 메일이 아닌 회신을 기대하는 메일**이라 생각하고 세심한 설계를 하는 것이 좋습니다. 그렇지 않으면 사실상 큰 의미가 없기 때문이죠
 
-<figure><img src="/blog/images/2023/09/image-16.png" alt="[문의 15분 후] 회신이 늦었습니다. {name} 고객님. 엘리자베스라고 합니다." loading="lazy"><figcaption>[문의 15분 후] 회신이 늦었습니다. {name}님. CSM 엘리자베스라고 합니다.</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-16.webp" alt="[문의 15분 후] 회신이 늦었습니다. {name} 고객님. 엘리자베스라고 합니다." loading="lazy"><figcaption>[문의 15분 후] 회신이 늦었습니다. {name}님. CSM 엘리자베스라고 합니다.</figcaption></figure>
 
 ## 이메일 마케팅을 위한 툴 추천
 
@@ -138,7 +138,7 @@ B2C에서의 CRM, 메신저에서 발송하는 푸쉬 메시지가 있다면 B2B
 
 기업용으로 결제한다면 1년에 25~50$인데 발송량 말고는 큰 차이가 없습니다.
 
-<figure><img src="/blog/images/2023/09/image-9.png" alt="이메일 마케팅 툴 YAMM 가격정책" loading="lazy"><figcaption>이메일 마케팅 툴 YAMM 가격정책</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-9.webp" alt="이메일 마케팅 툴 YAMM 가격정책" loading="lazy"><figcaption>이메일 마케팅 툴 YAMM 가격정책</figcaption></figure>
 
 YAMM은 지메일과 스프레드 시트를 기반으로 이메일을 발송합니다.  
 시트로 정리해둔 주소록과 지메일 임시보관함에 있는 메일을 YAMM이 대신 발송하고 성과를 추적해줍니다.
@@ -147,7 +147,7 @@ YAMM은 지메일과 스프레드 시트를 기반으로 이메일을 발송합�
 
 <figure><img src="/blog/images/2023/09/image-10.png" alt="이메일마케팅 툴 YAMM" loading="lazy"><figcaption>각각의 메일에 상태값이 표시됩니다.</figcaption></figure>
 
-<div class="bookmark-card"><a href="https://yamm.com/pricing/" target="_blank" rel="noopener"><span class="bookmark-body"><strong>Pricing plans | Yet another mail merge</strong><span>Discover the Yet Another Mail Merge pricing plans for enterprises, individuals, and everyone in-between.</span><small>Yet another mail merge</small></span><img src="https://yamm.com/static/images/og/og-image-29-4-2021.png" alt="" loading="lazy"></a></div>
+<div class="bookmark-card"><a href="https://yamm.com/pricing/" target="_blank" rel="noopener"><span class="bookmark-body"><strong>Pricing plans | Yet another mail merge</strong><span>Discover the Yet Another Mail Merge pricing plans for enterprises, individuals, and everyone in-between.</span><small>Yet another mail merge</small></span></a></div>
 
 ### 2\. 세일즈클루
 
@@ -160,7 +160,7 @@ YAMM은 지메일과 스프레드 시트를 기반으로 이메일을 발송합�
 
 위에 있는 YAMM과 조합하면 **'어떤 이메일'을 가진 고객이 파일을 읽었는 지**까지 확인할 수 있습니다.
 
-<figure><img src="/blog/images/2023/09/image-11.png" alt="어떤 고객을 먼저 팔로업할 수 있을지, 어떤 메시지를 던져야할지 단서를 줍니다." loading="lazy"><figcaption>어떤 고객을 먼저 팔로업할 수 있을지, 어떤 메시지를 던져야할지 단서를 줍니다.</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-11.webp" alt="어떤 고객을 먼저 팔로업할 수 있을지, 어떤 메시지를 던져야할지 단서를 줍니다." loading="lazy"><figcaption>어떤 고객을 먼저 팔로업할 수 있을지, 어떤 메시지를 던져야할지 단서를 줍니다.</figcaption></figure>
 
 <div class="bookmark-card"><a href="https://www.salesclue.io/" target="_blank" rel="noopener"><span class="bookmark-body"><strong>중요한 고객에게 자료를 보낼 땐, SalesClue</strong><span>B2B 세일즈 성공률 높이는 법: ‘관심 있는’ 고객부터 공략하기. 세일즈클루로 관심 있는 고객을 파악하고, 고객이 관심을 가지는 내용으로 세일즈를 이어가세요.</span><small>Pairy, 페어리 주식회사</small></span><img src="/blog/images/external/206abca4939f.png" alt="" loading="lazy"></a></div>
 

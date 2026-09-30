@@ -18,18 +18,18 @@ coverAlt: 채널콘 2024 - 'CX가 주인공이 되는 세상'이 온다
 
 **무려 5,000명 가까이 신청하고 그 중에서 1,000명을 선발**했다고 하네요 👀
 
-<figure><img src="/blog/images/2024/04/image-5.png" alt="불러주셔서 감사드려요!" loading="lazy"><figcaption>귀한 행사에 불러주셔서 감사드려요!</figcaption></figure>
+<figure><img src="/blog/images/2024/04/image-5.webp" alt="불러주셔서 감사드려요!" loading="lazy"><figcaption>귀한 행사에 불러주셔서 감사드려요!</figcaption></figure>
 
 ## 오전 9시, 채널콘 도착부터 시작 전까지
 
 코엑스에서 5층 엘리베이터를 내린 순간부터 링크드인, 페이스북에서만 뵈었던 채널톡 멤버들이 행사장까지 인솔해주셨습니다.  
 고객 동선을 생각해서 인원을 배치하는 것까지 설계하신 것 같아요 🤔
 
-<figure><img src="/blog/images/2024/04/image-2.png" alt="실무자를 갈갈갈 했을 것 같은 행사장 퀄리티" loading="lazy"><figcaption>실무자를 갈갈갈 했을 것 같은 행사장 퀄리티</figcaption></figure>
+<figure><img src="/blog/images/2024/04/image-2.webp" alt="실무자를 갈갈갈 했을 것 같은 행사장 퀄리티" loading="lazy"><figcaption>실무자를 갈갈갈 했을 것 같은 행사장 퀄리티</figcaption></figure>
 
 아! 평소 채널톡 CX 매니저 마리님의 글과 그림을 재밌게 봤는데 직접 뵈니 마치 연예인을 만난 것 같았습니다.
 
-<div class="bookmark-card"><a href="https://channel.io/ko/blog/interview-marie" target="_blank" rel="noopener"><span class="bookmark-body"><strong>채널톡이 유일한 사수였던, 2년 차 CX 매니저 마리의 성장법</strong><span>채널톡 콘텐츠에 관심이 있다면 익숙할 이름 &lt;마리>, 동료도 사수도 없던 마리가 임팩트 있게 CX 커리어를 쌓아온 비결이 궁금하다면, 이 콘텐츠를 눈…</span><small>Channel</small></span><img src="https://s3.ap-northeast-2.amazonaws.com/zoyi-ghost/kr/2024/03/Group_7-1711008723963.png" alt="" loading="lazy"></a></div>
+<div class="bookmark-card"><a href="https://channel.io/ko/blog/interview-marie" target="_blank" rel="noopener"><span class="bookmark-body"><strong>채널톡이 유일한 사수였던, 2년 차 CX 매니저 마리의 성장법</strong><span>채널톡 콘텐츠에 관심이 있다면 익숙할 이름 &lt;마리>, 동료도 사수도 없던 마리가 임팩트 있게 CX 커리어를 쌓아온 비결이 궁금하다면, 이 콘텐츠를 눈…</span><small>Channel</small></span></a></div>
 
 어쩌다보니 행사장 앞에서 인터뷰도 하게 되었습니다..! 껄껄
 
@@ -42,7 +42,7 @@ coverAlt: 채널콘 2024 - 'CX가 주인공이 되는 세상'이 온다
 
 > "마케팅은 누구를 도울 지 정하는 것, **고객을 돕는 채널톡은 미래의 마케팅에도 큰 기여**를 할 것 같다" - 스타트업 마케터 조씨
 
-<figure><img src="/blog/images/2024/04/KakaoTalk_20240406_005253988_24.jpg" alt="하나하나가 큼직큼직한 채널콘" loading="lazy"><figcaption>요소 하나하나가 큼직큼직했던 채널콘</figcaption></figure>
+<figure><img src="/blog/images/2024/04/KakaoTalk_20240406_005253988_24.webp" alt="하나하나가 큼직큼직한 채널콘" loading="lazy"><figcaption>요소 하나하나가 큼직큼직했던 채널콘</figcaption></figure>
 
 ## 오전 10시, 오프닝 키노트 Half and Half 🍕
 
@@ -92,7 +92,7 @@ coverAlt: 채널콘 2024 - 'CX가 주인공이 되는 세상'이 온다
 
 역시 저는 사무실이 아니면 생산성이 80% 감소하는 사람이라 중간부턴 그냥 사람들을 만나고 다녔습니다.
 
-<figure><img src="/blog/images/2024/04/---------.png" alt="늘 에너지 넘치시는 채널톡 로사님, 인덴트의 BDM 오웬과 한 컷" loading="lazy"><figcaption>늘 에너지 넘치시는 채널톡 로사님, 인덴트의 멋쟁이 BDM 오웬과 한 컷</figcaption></figure>
+<figure><img src="/blog/images/2024/04/---------.webp" alt="늘 에너지 넘치시는 채널톡 로사님, 인덴트의 BDM 오웬과 한 컷" loading="lazy"><figcaption>늘 에너지 넘치시는 채널톡 로사님, 인덴트의 멋쟁이 BDM 오웬과 한 컷</figcaption></figure>
 
 예전부터 알고 지내던 채널톡 멤버분들과 이야기도 나누고 **제가 가장 사랑하는 브랜드 윙잇**의 임승진 대표님과도 이야기 나눴습니다.
 
@@ -103,7 +103,7 @@ coverAlt: 채널콘 2024 - 'CX가 주인공이 되는 세상'이 온다
 하지만 역시 내향인 답게 시간이 지날수록 힘이 쭉쭉 빠지기 시작했는데요.  
 사진도 찍고 놀다보니 기대하고 있던 세션 시간이 다가왔습니다.
 
-<figure><img src="/blog/images/2024/04/image-7-1.png" alt="작품명 &lt;조쉬와 조쉬> 채널톡 조쉬 대표님과 어쩌다보니 함께 찍혔습니다." loading="lazy"><figcaption>작품명 &lt;조쉬와 조쉬&gt; 채널톡 조쉬 대표님과 어쩌다보니 함께 찍혔습니다.</figcaption></figure>
+<figure><img src="/blog/images/2024/04/image-7-1.webp" alt="작품명 &lt;조쉬와 조쉬> 채널톡 조쉬 대표님과 어쩌다보니 함께 찍혔습니다." loading="lazy"><figcaption>작품명 &lt;조쉬와 조쉬&gt; 채널톡 조쉬 대표님과 어쩌다보니 함께 찍혔습니다.</figcaption></figure>
 
 ## 오후 2시, 접객의 선진국 일본 이커머스 전략
 

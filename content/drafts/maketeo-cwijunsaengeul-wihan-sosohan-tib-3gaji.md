@@ -18,7 +18,7 @@ ghostStatus: draft
 
 어떤 회사가 인재관리를 잘하는지 궁금하시다면, 인사담당자들이 많이 활동하는 [**링크드인**](https://www.linkedin.com/feed/) 같은 커뮤니티를 눈여겨보시는 것을 추천드립니다.
 
-<figure><a href="https://www.linkedin.com/feed/"><img src="/blog/images/2023/08/image-15.png" alt="이제는 국내에서도 유용한 정보들이 공유되는 링크드인" loading="lazy"></a><figcaption>이제는 국내에서도 유용한 정보들이 공유되는 <a href="https://www.linkedin.com/feed/">링크드인</a></figcaption></figure>
+<figure><a href="https://www.linkedin.com/feed/"><img src="/blog/images/2023/08/image-15.webp" alt="이제는 국내에서도 유용한 정보들이 공유되는 링크드인" loading="lazy"></a><figcaption>이제는 국내에서도 유용한 정보들이 공유되는 <a href="https://www.linkedin.com/feed/">링크드인</a></figcaption></figure>
 
 ### 2\. 취업하지 않고도 할 수 있는 직무경험 & 유사경험 쌓기
 

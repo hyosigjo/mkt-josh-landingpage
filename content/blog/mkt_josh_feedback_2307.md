@@ -46,7 +46,7 @@ coverAlt: ‘전체 성과 향상을 위한 리드 라우팅’
 > 💡 **리드 라우팅(Lead Routing)이란?**  
 > 발생한 리드를 세일즈 담당자들에게 배정하는 과정을 자동화하는 것. 현 시점에서 우리는 SDR이 아니라 리드 라우팅으로 마케팅과 세일즈 사이의 시간차를 줄여보기로 했다.
 
-<figure><img src="/blog/images/2023/08/image-2.png" alt="가보자고 짤 최고심" loading="lazy"><figcaption>인덴트, 브이리뷰 그로스팀 가보자고~</figcaption></figure>
+<figure><img src="/blog/images/2023/08/image-2.webp" alt="가보자고 짤 최고심" loading="lazy"><figcaption>인덴트, 브이리뷰 그로스팀 가보자고~</figcaption></figure>
 
 ### 라운드 로빈 - 세일즈맨에게 공평한 리드 라우팅 방식
 
@@ -73,7 +73,7 @@ coverAlt: ‘전체 성과 향상을 위한 리드 라우팅’
 
 나중에 기술스택에 세일즈포스랑 웹플로우, 고스트 블로그 세팅 정도는 넣어도 되지 않을까 싶다. 아님 말고 ㅎ
 
-<figure><img src="/blog/images/2023/08/image-8.png" alt="미국산 SaaS와의 처절한 싸움으로 보낸 7월" loading="lazy"><figcaption>미국산 SaaS와의 처절한 싸움으로 보낸 7월</figcaption></figure>
+<figure><img src="/blog/images/2023/08/image-8.webp" alt="미국산 SaaS와의 처절한 싸움으로 보낸 7월" loading="lazy"><figcaption>미국산 SaaS와의 처절한 싸움으로 보낸 7월</figcaption></figure>
 
 ### B2B 그로스팀의 숙명은 시행착오와 프로세스 다듬기의 연속
 

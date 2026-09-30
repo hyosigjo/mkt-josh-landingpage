@@ -167,7 +167,7 @@ coverAlt: 알아서 면접 제안 받는 마케터 포트폴리오 만들기
 
 바로 최근에도 ['마케터의 의자'](/blog/sidiz-promotion)라는 프로그램을 통해 마케팅과 발전에 대해 밀도 있는 논의를 하기도 했습니다.
 
-<figure><img src="/blog/images/2024/08/image-9.png" alt="다양한 마케터들과 발전에 대해 이야기하는 기회" loading="lazy"><figcaption>다양한 마케터들과 발전에 대해 이야기하는 기회</figcaption></figure>
+<figure><img src="/blog/images/2024/08/image-9.webp" alt="다양한 마케터들과 발전에 대해 이야기하는 기회" loading="lazy"><figcaption>다양한 마케터들과 발전에 대해 이야기하는 기회</figcaption></figure>
 
 앞으로도 주니어 마케터들의 성장을 응원하는 좋은 콘텐츠로 인사드리겠습니다.
 

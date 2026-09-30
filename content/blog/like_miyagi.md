@@ -31,7 +31,7 @@ coverAlt: 내가 슬램덩크의 송태섭을 좋아하는 이유
 
 현업에서는 좋은 잠재고객을 만들어내고(Lead Gen), 계약 성공률을 높일 수 있는 여러 활동(Lead Nurturing) 이후, 이를 잘 대처할 수 있는 세일즈맨에게 토스하고 있으니 어느 정도 비슷한 맥락으로 일하고 있는 중이다.
 
-<figure><img src="/blog/images/2023/09/image-18.png" alt="팀의 성과를 위해 빠르고 정확한 판단이 요구되는 포인트가드(B2B 마케터)" loading="lazy"><figcaption>팀의 성과를 위해 빠르고 정확한 판단이 요구되는 포인트가드(B2B 마케터)</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-18.webp" alt="팀의 성과를 위해 빠르고 정확한 판단이 요구되는 포인트가드(B2B 마케터)" loading="lazy"><figcaption>팀의 성과를 위해 빠르고 정확한 판단이 요구되는 포인트가드(B2B 마케터)</figcaption></figure>
 
 ## 순수한 열정과 마음을 잃지 않길
 

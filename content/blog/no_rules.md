@@ -5,7 +5,7 @@ updated: '2023-08-02T16:02:58.000Z'
 tags:
   - books
 excerpt: 자율과 책임 문화의 교과서 <규칙 없음>
-cover: /blog/images/2023/08/------1.png
+cover: /blog/images/2023/08/------1.webp
 coverAlt: 규칙 없음 - 조쉬의 책 읽기
 metaDescription: |-
   일각에서는 이 책의 내용이 너무 극단적이며 특히 한국 기업들이 적용하기엔 적합하지 않다고 이야기한다.
@@ -91,7 +91,7 @@ metaDescription: |-
 
 오늘날까지의 한국의 성장공식과 넷플릭스의 방향성은 다르다는 것을 인지해야만 적절히 각색(Adapt)할 수 있단 것을 보여준다.
 
-<figure><img src="/blog/images/2023/08/----1.png" alt="넷플릭스와 한국의 문화 차이, 컬처맵" loading="lazy"><figcaption>넷플릭스와 한국의 컬처맵 비교</figcaption></figure>
+<figure><img src="/blog/images/2023/08/----1.webp" alt="넷플릭스와 한국의 문화 차이, 컬처맵" loading="lazy"><figcaption>넷플릭스와 한국의 컬처맵 비교</figcaption></figure>
 
 우리가 소위 '아메리칸 스타일'이라고 부르는 직설적인 소통방식에 대해서도 다시 생각할 필요가 있다. 한국만 하더라도 전라도와 경상도, 충청도 사람들의 문화와 성격에 대한 스테레오 타입들을 만들고 있지 않은가.
 

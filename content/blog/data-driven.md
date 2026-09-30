@@ -79,4 +79,4 @@ B2B 마케터의 시선으로 이야기하자면 **'고객과 회사, 그리고 
 
 아직은 갈 길이 멀지만 조금 더 경력이 쌓이면 **'고객과 회사, 그리고 나'**에게 유익한 데이터 드리븐을 정말 실천할 수 있을 거라 믿습니다 :)
 
-<figure><img src="/blog/images/2023/08/image-23.png" alt="주니어 시절 처음으로 GA4를 연결했던 티스토리 블로그" loading="lazy"><figcaption>주니어 시절 처음으로 GA4를 연결했던 티스토리 블로그</figcaption></figure>
+<figure><img src="/blog/images/2023/08/image-23.webp" alt="주니어 시절 처음으로 GA4를 연결했던 티스토리 블로그" loading="lazy"><figcaption>주니어 시절 처음으로 GA4를 연결했던 티스토리 블로그</figcaption></figure>

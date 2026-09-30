@@ -5,7 +5,7 @@ updated: '2026-08-05T15:59:20.000Z'
 tags:
   - skincare
 excerpt: 今日は、夏の肌トラブルの原因と、今日から見直せるスキンケアのポイントを、私の経験も交えてご紹介します。
-cover: /blog/images/2026/08/inner-dry.png
+cover: /blog/images/2026/08/inner-dry.webp
 ---
 
 はじめまして。プレミアムスキンケアブランド「**オガナセル（OGANACELL）**」の**ジョ**です。
@@ -22,7 +22,7 @@ cover: /blog/images/2026/08/inner-dry.png
 
 さらに厄介なのが、**この3つが重なることで「表面はベタつくのに内側は乾燥している」インナードライ状態**に陥りやすいことです。
 
-![](/blog/images/2026/08/image-1.png)
+![](/blog/images/2026/08/image-1.webp)
 
 ## なぜ夏は「テカるのに乾燥する」のか
 
@@ -59,7 +59,7 @@ cover: /blog/images/2026/08/inner-dry.png
 
 夜のケアで一番大切なのはクレンジングです。日焼け止めや皮脂をしっかり落とした上で、夜用の保湿ケアで水分を補うことで、翌朝のテカリ・乾燥のバランスが整いやすくなります。
 
-![](/blog/images/2026/08/image-2.png)
+![](/blog/images/2026/08/image-2.webp)
 
 ## 夏のスキンケア チェックリスト
 
@@ -69,7 +69,7 @@ cover: /blog/images/2026/08/inner-dry.png
 -   軽いテクスチャーの美容液でインナードライ対策
 -   夜は汚れをしっかりオフしてから水分補給
 
-![](/blog/images/2026/08/image-3.png)
+![](/blog/images/2026/08/image-3.webp)
 
 ## おわりに
 

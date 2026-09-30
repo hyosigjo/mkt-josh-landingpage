@@ -68,7 +68,7 @@ AE가 광고주의 일을 하는 것은 대부분 B2C 마케팅에 속하지만 
 
 > 💡 ****인바운드 VS 아웃바운드 마케팅****1\. 인바운드 : 고객이 대행사를 인지하고 먼저 대행을 요청2. 아웃바운드 : 대행사가 잠재고객사에게 가치 전달 및 제안
 
-<figure><a href="https://mikekhorev.com/inbound-vs-outbound-marketing-one-effective"><img src="/blog/images/2023/08/image-11.png" alt="인바운드 vs 아웃바운드 마케팅" loading="lazy"></a><figcaption>인바운드 vs 아웃바운드 마케팅 / <a href="https://mikekhorev.com/inbound-vs-outbound-marketing-one-effective">출처 : mikekhorev</a></figcaption></figure>
+<figure><a href="https://mikekhorev.com/inbound-vs-outbound-marketing-one-effective"><img src="/blog/images/2023/08/image-11.webp" alt="인바운드 vs 아웃바운드 마케팅" loading="lazy"></a><figcaption>인바운드 vs 아웃바운드 마케팅 / <a href="https://mikekhorev.com/inbound-vs-outbound-marketing-one-effective">출처 : mikekhorev</a></figcaption></figure>
 
 이는 회사 자체의 디지털 마케팅 능력이 낮다는 것을 의미합니다.
 

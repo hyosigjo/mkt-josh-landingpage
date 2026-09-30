@@ -44,7 +44,7 @@ featured: 1
 
 조만간 블로그를 새로 찾은 컨셉을 바탕으로 뜯어고쳐보려고 합니다. 😀
 
-<figure><img src="/blog/images/2023/10/image-17.png" alt="워스픽 활동 종료를 앞두고 받은 멋진 선물! 다시 한 번 감사드립니다. :)" loading="lazy"><figcaption>워스픽 활동 종료를 앞두고 받은 멋진 선물! 다시 한 번 감사드립니다. :)</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-17.webp" alt="워스픽 활동 종료를 앞두고 받은 멋진 선물! 다시 한 번 감사드립니다. :)" loading="lazy"><figcaption>워스픽 활동 종료를 앞두고 받은 멋진 선물! 다시 한 번 감사드립니다. :)</figcaption></figure>
 
 ## 책X무기 : <원씽>이 될 사람과 만들고 싶은 <스토리>
 
@@ -82,7 +82,7 @@ featured: 1
 
 **국수회사 경리 김유미가 멋진 작가로 성장하는 이야기**처럼 저도 첫 회사에서 정말 다양한 잡일을 맡아서 하다가 마케터가 되겠다는 비전을 가지고 뛰쳐나올 수 있었거든요.
 
-<figure><img src="/blog/images/2023/10/image-16.png" alt="&lt;유미의 세포들> 첫 번째 장면, 과거의 제 모습이 그 자체였어요." loading="lazy"><figcaption>&lt;유미의 세포들&gt; 첫 번째 장면, 과거의 제 모습이 그 자체였어요.</figcaption></figure>
+<figure><img src="/blog/images/2023/10/image-16.webp" alt="&lt;유미의 세포들> 첫 번째 장면, 과거의 제 모습이 그 자체였어요." loading="lazy"><figcaption>&lt;유미의 세포들&gt; 첫 번째 장면, 과거의 제 모습이 그 자체였어요.</figcaption></figure>
 
 그리고 10월에 있었던 <짠케팅 살롱>에서는 예산을 절감하기 위한 방법으로 **'나 혹은 다른 사람, 기업이 가지고 있는 잉여자원을 교환하는 것'**으로 영리하게 예산을 아낄 수 있다는 것을 배웠습니다.
 
@@ -103,4 +103,4 @@ featured: 1
 
 지금 워스픽에 참여하시는 분들, 그리고 앞으로 합류하실 분들도 모두 자신만의 무기를 찾는 시간이 되시길 진심으로 응원합니다!
 
-<figure><img src="/blog/images/2023/10/KakaoTalk_Image_2023-10-31-14-19-05.jpeg" alt="굿바이 워스픽! 다음에 또 좋은 기회로 뵙겠습니다 :)" loading="lazy"><figcaption>굿바이 워스픽! 다음에 또 좋은 기회로 뵙겠습니다 :)</figcaption></figure>
+<figure><img src="/blog/images/2023/10/KakaoTalk_Image_2023-10-31-14-19-05.webp" alt="굿바이 워스픽! 다음에 또 좋은 기회로 뵙겠습니다 :)" loading="lazy"><figcaption>굿바이 워스픽! 다음에 또 좋은 기회로 뵙겠습니다 :)</figcaption></figure>

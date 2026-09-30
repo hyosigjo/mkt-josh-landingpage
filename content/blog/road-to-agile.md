@@ -18,7 +18,7 @@ coverAlt: 함께 자라기 - 고독한 전문가를 목표로 하지 않을 것
 
 감사한 마음을 담아, 이번 달 첫 독서로 코치님의 저서 **<함께 자라기>**를 읽어봤습니다.
 
-<figure><img src="/blog/images/2024/04/image-9.png" alt="정말정말 빠르게 준비했지만 만족도 높았던 '포스터 세션'" loading="lazy"><figcaption>정말정말 빠르게 준비했지만 만족도 높았던 '포스터 세션'</figcaption></figure>
+<figure><img src="/blog/images/2024/04/image-9.webp" alt="정말정말 빠르게 준비했지만 만족도 높았던 '포스터 세션'" loading="lazy"><figcaption>정말정말 빠르게 준비했지만 만족도 높았던 '포스터 세션'</figcaption></figure>
 
 ## 자라기 - '의도적 수련'을 할 수 있는 환경 만들기
 
@@ -63,4 +63,4 @@ coverAlt: 함께 자라기 - 고독한 전문가를 목표로 하지 않을 것
 
 좋은 책을 써주신 코치님 다시 한 번 감사드립니다.
 
-<figure><img src="/blog/images/2024/04/image-10-1.png" alt="멋진 코치님께 받은 친필 사인!" loading="lazy"><figcaption>멋진 코치님께 받은 친필 사인!</figcaption></figure>
+<figure><img src="/blog/images/2024/04/image-10-1.webp" alt="멋진 코치님께 받은 친필 사인!" loading="lazy"><figcaption>멋진 코치님께 받은 친필 사인!</figcaption></figure>

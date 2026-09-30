@@ -21,7 +21,7 @@ coverAlt: 업계 레전드에게 배운 '카피라이팅' 4단계 프로세스
 
 제가 멘토링을 받을 당시 실제로 작성하고 평가받았던 예시를 글 하단에 붙여뒀으니 같이 읽어보시면 이해에 도움이 되실 것 같습니다 :)
 
-<figure><img src="/blog/images/2023/08/image-20.png" alt="침대에 대한 인식 자체를 바꾼 에이스침대 카피라이팅 / 출처 : 뉴시스" loading="lazy"><figcaption>침대에 대한 인식 자체를 바꾼 에이스침대 카피라이팅 / 출처 : 뉴시스</figcaption></figure>
+<figure><img src="/blog/images/2023/08/image-20.webp" alt="침대에 대한 인식 자체를 바꾼 에이스침대 카피라이팅 / 출처 : 뉴시스" loading="lazy"><figcaption>침대에 대한 인식 자체를 바꾼 에이스침대 카피라이팅 / 출처 : 뉴시스</figcaption></figure>
 
 총 4단계로 이루어진 이 방법론은 제품으로 시작해서 소비자까지 많은 통찰을 요구합니다.
 
@@ -48,7 +48,7 @@ coverAlt: 업계 레전드에게 배운 '카피라이팅' 4단계 프로세스
 > 3\. 4K 동영상 촬영 등 기능은 고급, 가격은 보급형  
 > 4\. **가장 가벼운 DSLR 카메라**, 400g 수준의 무게
 
-<figure><img src="/blog/images/2023/08/image-21.png" alt="실제 카피라이팅 수업에서 예시로 사용한 내 카메라" loading="lazy"><figcaption>실제 카피라이팅 수업에서 예시로 사용한 카메라</figcaption></figure>
+<figure><img src="/blog/images/2023/08/image-21.webp" alt="실제 카피라이팅 수업에서 예시로 사용한 내 카메라" loading="lazy"><figcaption>실제 카피라이팅 수업에서 예시로 사용한 카메라</figcaption></figure>
 
 ---
 

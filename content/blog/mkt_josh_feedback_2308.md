@@ -20,7 +20,7 @@ coverAlt: '[Indent] ''Lead Routing'' - 월간 조쉬 마케터 회고(23년 8월
 >   
 > 인바운드 마케팅 성과를 높이기 위한 콘텐츠 제작 방법론으로서, 말그대로 **고객이 궁금할만한 내용에 답하는 것이 좋은 콘텐츠를 만드는 지름길**이라는 원리로 흘러간다.
 
-<figure><img src="/blog/images/2023/09/image-1.png" alt="They ask, you answer / 이 책도 원서 표지가 훨씬 낫다.." loading="lazy"><figcaption>They ask, you answer / 이 책도 원서 표지가 훨씬 낫다..</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-1.webp" alt="They ask, you answer / 이 책도 원서 표지가 훨씬 낫다.." loading="lazy"><figcaption>They ask, you answer / 이 책도 원서 표지가 훨씬 낫다..</figcaption></figure>
 
 리뉴얼한 있는 브이리뷰 홈페이지의 **'유용한 자료', '인사이트'** 메뉴에서 각각 고객들이 기대할 만한 콘텐츠를 쌓기 시작했다.
 
@@ -28,7 +28,7 @@ coverAlt: '[Indent] ''Lead Routing'' - 월간 조쉬 마케터 회고(23년 8월
 
 올해 안에 스니펫을 하나라도 따내는 게 목표다
 
-<figure><img src="/blog/images/2023/09/KakaoTalk_Photo_2023-09-05-01-12-02.png" alt="브이리뷰 (잠재)고객의 궁금증을 해결하는 콘텐츠 시리즈" loading="lazy"><figcaption>브이리뷰 (잠재)고객의 궁금증을 해결하는 콘텐츠 시리즈</figcaption></figure>
+<figure><img src="/blog/images/2023/09/KakaoTalk_Photo_2023-09-05-01-12-02.webp" alt="브이리뷰 (잠재)고객의 궁금증을 해결하는 콘텐츠 시리즈" loading="lazy"><figcaption>브이리뷰 (잠재)고객의 궁금증을 해결하는 콘텐츠 시리즈</figcaption></figure>
 
 이렇게 열심히 만드는 콘텐츠를 어떻게 활용할까?
 
@@ -45,7 +45,7 @@ coverAlt: '[Indent] ''Lead Routing'' - 월간 조쉬 마케터 회고(23년 8월
 나의 오랜 목표 중 하나인 **'예비 마케터들을 도와줄 수 있는 콘텐츠 만들기'**를 이루기엔 적합했지만 본업에 도움이 되는 곳은 아니었다. 그래도 기왕 들어간거 열심히 활동해봤다.  
 여기서도 TAYA를 적용해 콘텐츠를 만들어보기도 했다.
 
-<figure><img src="/blog/images/2023/09/IMG_1017.PNG" alt="신입 마케터 단톡에서 얻은 소재로 만든 콘텐츠, 스스로 뿌듯하긴 했다." loading="lazy"><figcaption>신입 마케터 단톡에서 얻은 소재로 만든 콘텐츠, 스스로 뿌듯하긴 했다.</figcaption></figure>
+<figure><img src="/blog/images/2023/09/IMG_1017.webp" alt="신입 마케터 단톡에서 얻은 소재로 만든 콘텐츠, 스스로 뿌듯하긴 했다." loading="lazy"><figcaption>신입 마케터 단톡에서 얻은 소재로 만든 콘텐츠, 스스로 뿌듯하긴 했다.</figcaption></figure>
 
 그러다가 어떤 열정있어 보이는 분이 오프라인 모임에 나를 초청했다. 열심히 활동하는 모습을 봤다고 하시더라.  
 이런걸 보면 나는 남들 눈에 열정이 있는 사람으로 보이긴 하나보다.
@@ -90,7 +90,7 @@ coverAlt: '[Indent] ''Lead Routing'' - 월간 조쉬 마케터 회고(23년 8월
 
 **역시 세상에 고수는 많다. 많은 사람들을 만난 덕에 새삼 실감했다.**
 
-<figure><img src="/blog/images/2023/09/IMG_1288.JPG" alt="다시 만나고 싶은 분들을 많이 알게 된 날!" loading="lazy"><figcaption>다시 만나고 싶은 분들을 많이 알게 된 날!</figcaption></figure>
+<figure><img src="/blog/images/2023/09/IMG_1288.webp" alt="다시 만나고 싶은 분들을 많이 알게 된 날!" loading="lazy"><figcaption>다시 만나고 싶은 분들을 많이 알게 된 날!</figcaption></figure>
 
 ## 마지막 다이브, 초인 커뮤니티 운영에 참여하다.
 
@@ -99,7 +99,7 @@ coverAlt: '[Indent] ''Lead Routing'' - 월간 조쉬 마케터 회고(23년 8월
 이야기하면서 참 고려해야할 게 많은 일이라는 걸 새삼 느꼈다.  
 커뮤니티 운영도 언젠가는 경험해봐야 할 일인데, 시작점을 찾지 못했던 나에겐 특히 그랬다.
 
-<figure><img src="/blog/images/2023/09/image-2.png" alt="초인의 마케팅 무기 커뮤니티 &lt;워스피커>" loading="lazy"><figcaption>초인의 마케팅 무기 커뮤니티 &lt;워스피커&gt;</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-2.webp" alt="초인의 마케팅 무기 커뮤니티 &lt;워스피커>" loading="lazy"><figcaption>초인의 마케팅 무기 커뮤니티 &lt;워스피커&gt;</figcaption></figure>
 
 그런데 이틀 후 초인님이 운 좋게도 내게 **초인 커뮤니티 <워스피커> 부방장 직책**을 제안해주셨다. 이게 우리의 첫 대화로부터 고작 2주 안에 일어난 일이다.
 
@@ -124,4 +124,4 @@ coverAlt: '[Indent] ''Lead Routing'' - 월간 조쉬 마케터 회고(23년 8월
 
 **\+ 이번 달의 노래 : '하늘의 푸르름을 아는 사람이여' - 아이묭**
 
-<figure><img src="/blog/images/2023/09/image-3.png" alt="우물 안 개구리, 바다의 넓음을 모른다. 하지만 하늘의 푸르름을 안다." loading="lazy"><figcaption>우물 안 개구리, 바다의 넓음을 모른다. 하지만 하늘의 푸르름을 안다.</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-3.webp" alt="우물 안 개구리, 바다의 넓음을 모른다. 하지만 하늘의 푸르름을 안다." loading="lazy"><figcaption>우물 안 개구리, 바다의 넓음을 모른다. 하지만 하늘의 푸르름을 안다.</figcaption></figure>

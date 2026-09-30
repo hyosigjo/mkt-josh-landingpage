@@ -21,7 +21,7 @@ coverAlt: 'LF몰 라이브커머스, ''OFM'' 양수석 이사님과의 커피챗
 같은 마케터로서 이야기를 나누다보니, 2시간이 정말 빠르게 지나갔습니다!  
 이번 포스팅에서는 이사님과 나눈 대화 중에서도 특히 인상 깊었던 부분 위주로 공유하려고 합니다.
 
-<figure><img src="/blog/images/2023/09/image-23.png" alt="좋은 만남의 연속이었던 맥스서밋 2023!" loading="lazy"><figcaption>좋은 만남의 연속이었던 맥스서밋 2023!</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-23.webp" alt="좋은 만남의 연속이었던 맥스서밋 2023!" loading="lazy"><figcaption>좋은 만남의 연속이었던 맥스서밋 2023!</figcaption></figure>
 
 ## 꾸준한 성공의 비결은 '차별화에 대한 고민'
 
@@ -36,7 +36,7 @@ coverAlt: 'LF몰 라이브커머스, ''OFM'' 양수석 이사님과의 커피챗
 
 현재 진행하시는 LF의 라이브커머스 'OFM'(Orange from Mars) 프로젝트에서도 이러한 강점이 두드러지게 나타나는 것을 확인했습니다.
 
-<figure><img src="/blog/images/2023/09/image-24.png" alt="커피챗 당일, 마침 성수에선 EQL 팝업이 있었어요." loading="lazy"><figcaption>커피챗 당일, 마침 성수에선 EQL 팝업이 있었어요.</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-24.webp" alt="커피챗 당일, 마침 성수에선 EQL 팝업이 있었어요." loading="lazy"><figcaption>커피챗 당일, 마침 성수에선 EQL 팝업이 있었어요.</figcaption></figure>
 
 ## "꼭 팔아야 할까?" 쇼호스트 없는 라이브 커머스 OFM
 
@@ -55,7 +55,7 @@ LF몰의 라이브커머스, OFM는 쇼호스트가 아닌 **'도슨트'**라는
 
 그리고 그게 바로 OFM 만이 가진 무기, 차별화 포인트가 되었습니다.
 
-<figure><img src="/blog/images/2023/09/OFM.png" alt="도슨트가 중심이 되는 라이브 커머스 'OFM'" loading="lazy"><figcaption>도슨트가 중심이 되는 라이브 커머스 'OFM'</figcaption></figure>
+<figure><img src="/blog/images/2023/09/OFM.webp" alt="도슨트가 중심이 되는 라이브 커머스 'OFM'" loading="lazy"><figcaption>도슨트가 중심이 되는 라이브 커머스 'OFM'</figcaption></figure>
 
 ## 그런데 너무 잘 팔았습니다.
 
@@ -75,7 +75,7 @@ OFM은 현재 50대 고객이 메인이 되는 LF몰 중에서 **유일하게 30
 
 OFM은 현재 라이브 커머스 1회당 **평균 1시간 매출 5천만원 이상**을 기록하며 ROI 측면에서도 꾸준한 성과를 이어나가고 있다고 합니다. 👍
 
-<figure><img src="/blog/images/2023/09/--------------.png" alt="" loading="lazy"><figcaption>팬들과 소통하는 자리를 만들어 준 것만으로도 충분하다.</figcaption></figure>
+<figure><img src="/blog/images/2023/09/--------------.webp" alt="" loading="lazy"><figcaption>팬들과 소통하는 자리를 만들어 준 것만으로도 충분하다.</figcaption></figure>
 
 ## 마케터의 'Have to do' & 'Want to do'
 
@@ -111,4 +111,4 @@ OFM은 현재 라이브 커머스 1회당 **평균 1시간 매출 5천만원 이
 
 **앞으로 마케팅을 하는 내내, 이 느낌을 잊지 않고 싶다고 생각했습니다. 👍**
 
-<figure><img src="/blog/images/2023/09/image-25.png" alt="서툰 글씨로 전달한 선물, 다행히 정말 마음에 들어하셨습니다." loading="lazy"><figcaption>서툰 글씨로 전달한 선물, 다행히 정말 마음에 들어하셨습니다.</figcaption></figure>
+<figure><img src="/blog/images/2023/09/image-25.webp" alt="서툰 글씨로 전달한 선물, 다행히 정말 마음에 들어하셨습니다." loading="lazy"><figcaption>서툰 글씨로 전달한 선물, 다행히 정말 마음에 들어하셨습니다.</figcaption></figure>
