@@ -29,7 +29,7 @@ coverAlt: 채널콘 2024 - 'CX가 주인공이 되는 세상'이 온다
 
 아! 평소 채널톡 CX 매니저 마리님의 글과 그림을 재밌게 봤는데 직접 뵈니 마치 연예인을 만난 것 같았습니다.
 
-<div class="bookmark-card"><a href="https://channel.io/ko/blog/interview-marie" target="_blank" rel="noopener"><span class="bookmark-body"><strong>채널톡이 유일한 사수였던, 2년 차 CX 매니저 마리의 성장법</strong><span>채널톡 콘텐츠에 관심이 있다면 익숙할 이름 &lt;마리>, 동료도 사수도 없던 마리가 임팩트 있게 CX 커리어를 쌓아온 비결이 궁금하다면, 이 콘텐츠를 눈…</span><small>Channel</small></span><img src="/blog/images/external/ff4de8fb2049.png" alt="" loading="lazy"></a></div>
+<div class="bookmark-card"><a href="https://channel.io/ko/blog/interview-marie" target="_blank" rel="noopener"><span class="bookmark-body"><strong>채널톡이 유일한 사수였던, 2년 차 CX 매니저 마리의 성장법</strong><span>채널톡 콘텐츠에 관심이 있다면 익숙할 이름 &lt;마리>, 동료도 사수도 없던 마리가 임팩트 있게 CX 커리어를 쌓아온 비결이 궁금하다면, 이 콘텐츠를 눈…</span><small>Channel</small></span><img src="https://s3.ap-northeast-2.amazonaws.com/zoyi-ghost/kr/2024/03/Group_7-1711008723963.png" alt="" loading="lazy"></a></div>
 
 어쩌다보니 행사장 앞에서 인터뷰도 하게 되었습니다..! 껄껄
 

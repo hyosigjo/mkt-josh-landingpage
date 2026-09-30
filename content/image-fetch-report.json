@@ -1,0 +1,34 @@
+{
+  "failures": [
+    {
+      "local": "/blog/images/2023/03/--------------001.png",
+      "source": "https://blog.joshlife.co.kr/content/images/2023/03/--------------001.png",
+      "error": "HTTP 404"
+    },
+    {
+      "local": "/blog/images/external/0d4513037eda.png",
+      "source": "https://yamm.com/static/images/og/og-image-29-4-2021.png",
+      "error": "HTTP 404"
+    },
+    {
+      "local": "/blog/images/external/660b5a1f09ab.png",
+      "source": "https://channel.io/logo.png",
+      "error": "HTTP 404"
+    },
+    {
+      "local": "/blog/images/external/707b654ec5c1.auto",
+      "source": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4c744512-20b2-4c58-a6e0-76ecd270a4a2%2FUntitled.jpeg&blockId=46074b47-5bdd-4af2-ad24-38239830dca6&width=2400",
+      "error": "HTTP 404"
+    },
+    {
+      "local": "/blog/images/external/9dedf9536763.auto",
+      "source": "https://www.salesclue.io/favicon.ico",
+      "error": "HTTP 404"
+    },
+    {
+      "local": "/blog/images/external/ff4de8fb2049.png",
+      "source": "https://s3.ap-northeast-2.amazonaws.com/zoyi-ghost/kr/2024/03/Group_7-1711008723963.png",
+      "error": "HTTP 403"
+    }
+  ]
+}

@@ -65,7 +65,7 @@ featured: 1
 *\*이 글을 쓰면서 제가 좋아하는 영화 <프리가이>가 생각났어요. :)  
 하나의 세상이 누군가를 향한 러브레터가 될 수 있다는 점이 인상적입니다!*
 
-<figure><img src="/blog/images/external/24f90af8cef2.auto" alt="어딘가에 있을 '단 하나'의 사람을 찾으려면 열심히 달려야겠어요." loading="lazy"><figcaption>어딘가에 있을 '단 하나'의 사람을 찾으려면 열심히 달려야겠어요.</figcaption></figure>
+<figure><img src="/blog/images/external/24f90af8cef2.jpg" alt="어딘가에 있을 '단 하나'의 사람을 찾으려면 열심히 달려야겠어요." loading="lazy"><figcaption>어딘가에 있을 '단 하나'의 사람을 찾으려면 열심히 달려야겠어요.</figcaption></figure>
 
 ## 워스픽 살롱 : 내가 쓸 수 있는 무기를 찾는 시간
 

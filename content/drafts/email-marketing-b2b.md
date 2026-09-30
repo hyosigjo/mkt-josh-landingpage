@@ -147,7 +147,7 @@ YAMM은 지메일과 스프레드 시트를 기반으로 이메일을 발송합�
 
 <figure><img src="/blog/images/2023/09/image-10.png" alt="이메일마케팅 툴 YAMM" loading="lazy"><figcaption>각각의 메일에 상태값이 표시됩니다.</figcaption></figure>
 
-<div class="bookmark-card"><a href="https://yamm.com/pricing/" target="_blank" rel="noopener"><span class="bookmark-body"><strong>Pricing plans | Yet another mail merge</strong><span>Discover the Yet Another Mail Merge pricing plans for enterprises, individuals, and everyone in-between.</span><small>Yet another mail merge</small></span><img src="/blog/images/external/0d4513037eda.png" alt="" loading="lazy"></a></div>
+<div class="bookmark-card"><a href="https://yamm.com/pricing/" target="_blank" rel="noopener"><span class="bookmark-body"><strong>Pricing plans | Yet another mail merge</strong><span>Discover the Yet Another Mail Merge pricing plans for enterprises, individuals, and everyone in-between.</span><small>Yet another mail merge</small></span><img src="https://yamm.com/static/images/og/og-image-29-4-2021.png" alt="" loading="lazy"></a></div>
 
 ### 2\. 세일즈클루
 

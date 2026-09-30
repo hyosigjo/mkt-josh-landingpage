@@ -16,7 +16,7 @@ ghostStatus: members-only
 2.  이력서와 포트폴리오는 철저히 저의 커리어 관점에 따라 정리된 것이라, 사실은 **직접적인 도움이 되기는 어려울 것이라 예상합니다.**
 3.  그럼에도 마케터 취업을 준비하시는 분들의 **시행착오를 조금이라도 줄여주고 싶다는 마음**을 담아 이 포스팅을 지속적으로 보강하려고 합니다 :)
 
-<div class="bookmark-card"><a href="https://drive.google.com/drive/folders/1Jo_WUdsygYTBIjPzUIr14dLND5PQbbDQ?usp=sharing" target="_blank" rel="noopener"><span class="bookmark-body"><strong>(구) 조효식 포트폴리오 - Google Drive</strong><small>Google Drive</small></span><img src="/blog/images/external/31014734f1dd.auto" alt="" loading="lazy"></a></div>
+<div class="bookmark-card"><a href="https://drive.google.com/drive/folders/1Jo_WUdsygYTBIjPzUIr14dLND5PQbbDQ?usp=sharing" target="_blank" rel="noopener"><span class="bookmark-body"><strong>(구) 조효식 포트폴리오 - Google Drive</strong><small>Google Drive</small></span><img src="/blog/images/external/31014734f1dd.png" alt="" loading="lazy"></a></div>
 
 ## 이력서 & 포트폴리오 작성 포인트(23.10.03 최종)
 
