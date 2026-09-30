@@ -7,7 +7,7 @@ interface ContactPayload {
   company: string;
   email: string;
   phone: string;
-  plan: string;
+  topic: string;
   message: string;
   submittedAt: string;
   source: string;
@@ -34,7 +34,7 @@ async function sendEmail(payload: ContactPayload) {
     ["회사/서비스", payload.company || "-"],
     ["이메일", payload.email],
     ["연락처", payload.phone || "-"],
-    ["관심 플랜", payload.plan || "-"],
+    ["문의 유형", payload.topic || "-"],
     ["문의 내용", payload.message],
   ]
     .map(
@@ -55,11 +55,11 @@ async function sendEmail(payload: ContactPayload) {
       from,
       to: [to],
       reply_to: payload.email,
-      subject: `[마케터 조쉬] 새 문의 — ${payload.name}${
-        payload.plan ? ` (${payload.plan})` : ""
+      subject: `[마케터 조쉬] 새 메시지 — ${payload.name}${
+        payload.topic ? ` (${payload.topic})` : ""
       }`,
       html: `<div style="font-family:sans-serif;max-width:560px;">
-        <h2 style="color:#333f14;">새 문의가 도착했습니다 🚢</h2>
+        <h2 style="color:#333f14;">새 메시지가 도착했습니다 🚢</h2>
         <table style="border-collapse:collapse;background:#fbf1dc;border-radius:12px;width:100%;">${rows}</table>
         <p style="color:#9a9a90;font-size:12px;margin-top:16px;">${payload.source} · ${payload.submittedAt}</p>
       </div>`,
@@ -86,8 +86,8 @@ async function sendToCrm(payload: ContactPayload) {
   form.set("phone", payload.phone);
   form.set(
     "message",
-    payload.plan
-      ? `${payload.message}\n\n[관심 플랜] ${payload.plan}`
+    payload.topic
+      ? `${payload.message}\n\n[문의 유형] ${payload.topic}`
       : payload.message
   );
   form.set("source", payload.source);
@@ -125,7 +125,7 @@ export async function POST(request: Request) {
   const company = typeof body.company === "string" ? body.company.trim() : "";
   const email = typeof body.email === "string" ? body.email.trim() : "";
   const phone = typeof body.phone === "string" ? body.phone.trim() : "";
-  const plan = typeof body.plan === "string" ? body.plan.trim() : "";
+  const topic = typeof body.topic === "string" ? body.topic.trim() : "";
   const message = typeof body.message === "string" ? body.message.trim() : "";
 
   if (!name || !email || !message) {
@@ -143,6 +143,7 @@ export async function POST(request: Request) {
   if (
     name.length > 100 ||
     company.length > 200 ||
+    topic.length > 100 ||
     phone.length > 50 ||
     message.length > 5000
   ) {
@@ -157,7 +158,7 @@ export async function POST(request: Request) {
     company,
     email,
     phone,
-    plan,
+    topic,
     message,
     submittedAt: new Date().toISOString(),
     source: "mkt.joshlife.co.kr",

@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 @theme {
   --color-cream: #fbf1dc;
@@ -32,4 +33,134 @@ body {
 ::selection {
   background-color: var(--color-lime);
   color: var(--color-olive-deep);
+}
+
+/* ===== 블로그 본문 ===== */
+.post-body {
+  --tw-prose-body: var(--color-ink);
+  --tw-prose-headings: var(--color-olive-deep);
+  --tw-prose-links: var(--color-olive);
+  --tw-prose-bold: var(--color-olive-deep);
+  --tw-prose-quotes: var(--color-olive-deep);
+  --tw-prose-quote-borders: var(--color-tangerine);
+  --tw-prose-bullets: var(--color-tangerine-deep);
+  --tw-prose-counters: var(--color-tangerine-deep);
+  --tw-prose-hr: color-mix(in srgb, var(--color-olive) 15%, transparent);
+  --tw-prose-captions: color-mix(in srgb, var(--color-ink) 55%, transparent);
+  --tw-prose-th-borders: color-mix(in srgb, var(--color-olive) 25%, transparent);
+  --tw-prose-td-borders: color-mix(in srgb, var(--color-olive) 12%, transparent);
+  line-height: 1.85;
+}
+
+.post-body a {
+  text-decoration-color: var(--color-tangerine);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.post-body img {
+  border-radius: 1rem;
+  margin-inline: auto;
+}
+
+.post-body figure figcaption {
+  text-align: center;
+}
+
+.post-body blockquote {
+  font-style: normal;
+}
+.post-body blockquote p::before,
+.post-body blockquote p::after {
+  content: none;
+}
+
+.post-body .callout {
+  display: flex;
+  gap: 0.9rem;
+  margin: 2em 0;
+  padding: 1.1rem 1.3rem;
+  border-radius: 1rem;
+  background: var(--color-cream-deep);
+  border: 2px solid color-mix(in srgb, var(--color-olive) 10%, transparent);
+}
+.post-body .callout-emoji {
+  font-size: 1.4em;
+  line-height: 1.5;
+}
+.post-body .callout-body > :first-child {
+  margin-top: 0;
+}
+.post-body .callout-body > :last-child {
+  margin-bottom: 0;
+}
+
+.post-body details {
+  margin: 1.5em 0;
+  padding: 1rem 1.3rem;
+  border-radius: 1rem;
+  border: 2px solid color-mix(in srgb, var(--color-olive) 12%, transparent);
+  background: rgb(255 255 255 / 0.6);
+}
+.post-body details[open] {
+  border-color: var(--color-tangerine);
+}
+.post-body summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--color-olive-deep);
+}
+
+.post-body .bookmark-card a {
+  display: flex;
+  overflow: hidden;
+  border-radius: 1rem;
+  border: 2px solid color-mix(in srgb, var(--color-olive) 12%, transparent);
+  background: rgb(255 255 255 / 0.7);
+  text-decoration: none;
+  transition: border-color 0.15s;
+}
+.post-body .bookmark-card a:hover {
+  border-color: var(--color-tangerine);
+}
+.post-body .bookmark-body {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+  gap: 0.3rem;
+  padding: 1rem 1.2rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+.post-body .bookmark-body strong {
+  color: var(--color-olive-deep);
+}
+.post-body .bookmark-body span {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  color: color-mix(in srgb, var(--color-ink) 65%, transparent);
+}
+.post-body .bookmark-body small {
+  color: color-mix(in srgb, var(--color-ink) 45%, transparent);
+}
+.post-body .bookmark-card img {
+  width: 30%;
+  max-width: 12rem;
+  margin: 0;
+  border-radius: 0;
+  object-fit: cover;
+}
+@media (max-width: 640px) {
+  .post-body .bookmark-card img {
+    display: none;
+  }
+}
+
+.post-body table {
+  display: block;
+  overflow-x: auto;
+  font-size: 0.9em;
 }

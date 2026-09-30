@@ -1,6 +1,6 @@
-# 마케터 조쉬 랜딩페이지
+# 마케터 조쉬
 
-B2B 인바운드 퍼널 구축 서비스 '마케터 조쉬'의 공식 랜딩페이지입니다.
+마케터 조쉬의 퍼스널 브랜딩 사이트 겸 블로그입니다. (이전 Ghost 블로그 blog.joshlife.co.kr 에서 이전)
 
 - **프로덕션 URL**: https://mkt.joshlife.co.kr
 - **스택**: Next.js (App Router) + Tailwind CSS v4 + TypeScript
@@ -42,10 +42,10 @@ npm start
    | 필드 | 내용 |
    | --- | --- |
    | `name` | 이름 |
-   | `company` | 회사/서비스명 |
+   | `company` | 소속 |
    | `email` | 이메일 |
    | `phone` | 연락처 |
-   | `message` | 문의 내용 (끝에 `[관심 플랜] ...` 이 덧붙습니다) |
+   | `message` | 메시지 내용 (끝에 `[문의 유형] ...` 이 덧붙습니다) |
    | `source`, `submittedAt` | 추가 메타 정보 (CRM이 무시해도 무방) |
 
 ### 설정 방법
@@ -63,9 +63,56 @@ npm start
 
 두 채널 중 하나라도 성공하면 사용자에게는 접수 완료로 표시되고, 실패한 채널은 서버 로그(Vercel Functions 로그)에 기록됩니다. 스팸은 허니팟 필드로 1차 차단됩니다.
 
+## 블로그
+
+글은 모두 `content/` 폴더의 마크다운 파일입니다. 별도 CMS나 요금 없이, 파일을 추가·수정해 푸시하면 Vercel이 다시 배포합니다.
+
+| 위치 | 내용 |
+| --- | --- |
+| `content/blog/*.md` | 공개된 글 (파일 이름 = 주소, 예: `why_blog.md` → `/blog/why_blog`) |
+| `content/drafts/*.md` | 공개되지 않는 초안. `content/blog/`로 옮기면 공개됩니다 |
+| `content/tags.json` | 태그(주제) 이름과 설명 |
+| `public/blog/images/` | 글에 쓰는 이미지 |
+
+### 새 글 쓰기
+
+`content/blog/새-글-주소.md` 파일을 만들고 맨 위에 아래 정보를 적은 뒤 본문을 마크다운으로 씁니다. 이미지는 `public/blog/images/` 아래에 넣고 `/blog/images/...` 경로로 불러옵니다.
+
+```markdown
+---
+title: 글 제목
+date: 2026-10-01
+tags:
+  - marketing
+excerpt: 목록과 검색 결과에 보일 한두 문장 요약 (생략하면 본문 앞부분 사용)
+cover: /blog/images/2026/10/cover.jpg
+---
+
+본문을 씁니다.
+
+> 💡 이모지로 시작하는 인용문은 콜아웃 박스로 표시됩니다.
+
+<details>
+<summary>펼쳐보기 제목</summary>
+
+접히는 내용
+
+</details>
+```
+
+태그는 `content/tags.json`에 있는 키(`marketing`, `insight`, `career`, `books`, `favorite_things`, `skincare`)를 쓰고, 새 태그가 필요하면 그 파일에 추가하세요.
+
+### Ghost에서 옮겨온 방법
+
+1. `node scripts/ghost-import.mjs <ghost-export.json>` — Ghost 내보내기 JSON을 마크다운으로 변환하고, 이미지 원본 주소를 `content/image-manifest.json`에 기록합니다. (공개 글 66개, 초안 58개, 회원 전용 글 2개. 내보내기 JSON 자체는 설정 정보가 들어 있어 레포에 올리지 않습니다.)
+2. `.github/workflows/fetch-blog-images.yml` — 매니페스트가 바뀌면 GitHub Actions가 이미지를 내려받아(1600px 초과는 축소·재압축) `public/blog/images/`에 커밋합니다. Actions 탭에서 수동 실행도 가능합니다. 받지 못한 이미지는 본문에서 원래 주소로 되돌리고 `content/image-fetch-report.json`에 남깁니다.
+3. `next.config.ts`의 리다이렉트 — `blog.joshlife.co.kr` 도메인을 이 Vercel 프로젝트에 연결하면 옛 글·태그·이미지·RSS 주소가 새 주소로 영구 이동(308)됩니다.
+
 ## 콘텐츠 수정 위치
 
-- 메인 카피, 서비스, 플랜, FAQ: `app/page.tsx` 상단의 상수(`SERVICES`, `PLANS`, `FAQS` 등)
-- 브랜드 컬러: `app/globals.css`의 `@theme` 블록
+- 홈 카피(소개, 키워드): `app/page.tsx`
+- 헤더·푸터·연락처 이메일: `app/components/SiteChrome.tsx`
+- 문의 유형 선택지: `app/components/ContactForm.tsx`의 `TOPIC_OPTIONS`
+- 브랜드 컬러, 블로그 본문 스타일: `app/globals.css`
 - 로고: `app/components/Logo.tsx`
-- SEO 메타데이터: `app/layout.tsx`
+- SEO 메타데이터·공유 이미지(`public/og-image.jpg`): `app/layout.tsx`

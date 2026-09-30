@@ -3,38 +3,41 @@ import "./globals.css";
 
 const siteUrl = "https://mkt.joshlife.co.kr";
 
+const title = "마케터 조쉬 | 콘텐츠로 고객을 돕는 마케터";
+const description =
+  "스타트업에서 마케터로 일하면서 느낀 점과 지식, 경험을 공유합니다. 이커머스·AI 도메인 5년+ B2B 마케터 조쉬의 블로그.";
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "마케터 조쉬 | B2B 인바운드 퍼널 구축 파트너",
+    default: title,
     template: "%s | 마케터 조쉬",
   },
-  description:
-    "5년 이상 이커머스·AI 도메인에서 B2B 마케팅을 해온 마케터 조쉬가 초기 단계 비즈니스의 인바운드 퍼널을 함께 만듭니다. 핵심 메시지 발굴부터 랜딩페이지, 블로그 SEO, 인스타그램, 메타 광고, 아웃바운드까지.",
+  description,
   keywords: [
+    "마케터 조쉬",
     "B2B 마케팅",
     "인바운드 마케팅",
-    "퍼널 구축",
-    "마케팅 대행사",
     "스타트업 마케팅",
-    "블로그 SEO",
-    "메타 광고",
-    "마케터 조쉬",
+    "마케터 커리어",
+    "마케팅 블로그",
   ],
+  alternates: {
+    types: { "application/rss+xml": "/blog/rss.xml" },
+  },
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: siteUrl,
     siteName: "마케터 조쉬",
-    title: "마케터 조쉬 | B2B 인바운드 퍼널 구축 파트너",
-    description:
-      "좋은 제품이 먼저 발견되도록. 초기 단계 비즈니스의 B2B 인바운드 퍼널을 함께 만듭니다.",
+    title,
+    description,
+    images: ["/og-image.jpg"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "마케터 조쉬 | B2B 인바운드 퍼널 구축 파트너",
-    description:
-      "좋은 제품이 먼저 발견되도록. 초기 단계 비즈니스의 B2B 인바운드 퍼널을 함께 만듭니다.",
+    title,
+    description,
+    images: ["/og-image.jpg"],
   },
   robots: {
     index: true,

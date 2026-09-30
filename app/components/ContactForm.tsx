@@ -2,12 +2,12 @@
 
 import { useState } from "react";
 
-const PLAN_OPTIONS = [
-  "알려줘쉬 (자문 & Q&A)",
-  "도와줘쉬 (세팅 보조)",
-  "해줘쉬 (B2B 마케팅 실행)",
-  "그냥 해 (엔터프라이즈)",
-  "아직 모르겠어요",
+const TOPIC_OPTIONS = [
+  "커피챗",
+  "협업 · 프로젝트 제안",
+  "강연 · 기고 · 인터뷰 요청",
+  "블로그 글에 대한 이야기",
+  "기타",
 ];
 
 type Status = "idle" | "submitting" | "success" | "error";
@@ -55,19 +55,17 @@ export function ContactForm() {
       <div className="flex h-full min-h-72 flex-col items-center justify-center rounded-3xl bg-white p-10 text-center">
         <span className="text-5xl">🚢</span>
         <h3 className="mt-4 text-2xl font-extrabold text-olive-deep">
-          문의가 접수되었습니다!
+          메시지가 잘 도착했어요!
         </h3>
         <p className="mt-3 leading-relaxed text-ink/70">
-          내용 확인 후 1영업일 안에 답변드릴게요.
-          <br />
-          조쉬가 곧 찾아갑니다.
+          꼼꼼히 읽고 남겨주신 이메일로 답장드릴게요.
         </p>
         <button
           type="button"
           onClick={() => setStatus("idle")}
           className="mt-6 text-sm font-bold text-olive underline underline-offset-4 hover:text-olive-deep"
         >
-          다른 문의 보내기
+          다른 메시지 보내기
         </button>
       </div>
     );
@@ -110,13 +108,13 @@ export function ContactForm() {
             htmlFor="contact-company"
             className="mb-1.5 block text-sm font-bold text-olive-deep"
           >
-            회사 / 서비스명
+            소속
           </label>
           <input
             id="contact-company"
             name="company"
             maxLength={200}
-            placeholder="예: 조쉬랩스"
+            placeholder="회사, 학교 등 (선택)"
             className={inputClass}
           />
         </div>
@@ -159,23 +157,23 @@ export function ContactForm() {
 
       <div>
         <label
-          htmlFor="contact-plan"
+          htmlFor="contact-topic"
           className="mb-1.5 block text-sm font-bold text-olive-deep"
         >
-          관심 있는 플랜
+          어떤 이야기인가요?
         </label>
         <select
-          id="contact-plan"
-          name="plan"
+          id="contact-topic"
+          name="topic"
           defaultValue=""
           className={`${inputClass} appearance-none`}
         >
           <option value="" disabled>
             선택해주세요
           </option>
-          {PLAN_OPTIONS.map((plan) => (
-            <option key={plan} value={plan}>
-              {plan}
+          {TOPIC_OPTIONS.map((topic) => (
+            <option key={topic} value={topic}>
+              {topic}
             </option>
           ))}
         </select>
@@ -186,7 +184,7 @@ export function ContactForm() {
           htmlFor="contact-message"
           className="mb-1.5 block text-sm font-bold text-olive-deep"
         >
-          문의 내용 <span className="text-tangerine-deep">*</span>
+          하고 싶은 이야기 <span className="text-tangerine-deep">*</span>
         </label>
         <textarea
           id="contact-message"
@@ -194,7 +192,7 @@ export function ContactForm() {
           required
           rows={5}
           maxLength={5000}
-          placeholder="지금 겪고 있는 마케팅 고민이나 만들고 있는 제품에 대해 편하게 적어주세요."
+          placeholder="편하게 적어주세요. 어떤 이야기든 반갑습니다."
           className={`${inputClass} resize-y`}
         />
       </div>
@@ -213,10 +211,10 @@ export function ContactForm() {
         disabled={status === "submitting"}
         className="w-full rounded-full bg-olive px-7 py-4 text-base font-bold text-cream shadow-[0_4px_0_0_var(--color-olive-deep)] transition-all duration-150 hover:translate-y-1 hover:bg-olive-deep hover:shadow-none disabled:cursor-not-allowed disabled:opacity-60 disabled:shadow-none"
       >
-        {status === "submitting" ? "접수 중..." : "무료 상담 신청하기 →"}
+        {status === "submitting" ? "보내는 중..." : "메시지 보내기 →"}
       </button>
       <p className="text-center text-xs text-ink/45">
-        남겨주신 정보는 상담 목적으로만 사용됩니다.
+        남겨주신 정보는 답장을 위해서만 사용됩니다.
       </p>
     </form>
   );
