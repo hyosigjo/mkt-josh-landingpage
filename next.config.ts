@@ -11,6 +11,7 @@ const nextConfig: NextConfig = {
       { source: "/", has: OLD_BLOG_HOST, destination: `${SITE}/blog`, permanent: true },
       { source: "/rss", has: OLD_BLOG_HOST, destination: `${SITE}/blog/rss.xml`, permanent: true },
       { source: "/sitemap.xml", has: OLD_BLOG_HOST, destination: `${SITE}/sitemap.xml`, permanent: true },
+      { source: "/robots.txt", has: OLD_BLOG_HOST, destination: `${SITE}/robots.txt`, permanent: true },
       { source: "/tag/:tag", has: OLD_BLOG_HOST, destination: `${SITE}/blog/tag/:tag`, permanent: true },
       {
         source: "/content/images/size/:size/:path*",
