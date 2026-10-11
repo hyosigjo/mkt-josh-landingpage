@@ -44,6 +44,11 @@ export function ContactForm() {
       }
       setStatus("success");
       form.reset();
+      const w = window as typeof window & { dataLayer?: object[] };
+      (w.dataLayer ??= []).push({
+        event: "contact_submit",
+        contact_topic: typeof data.topic === "string" ? data.topic : "",
+      });
     } catch {
       setStatus("error");
       setErrorMessage("네트워크 오류가 발생했습니다. 잠시 후 다시 시도해주세요.");
