@@ -1,23 +1,31 @@
 {
-  "favorite_things": {
-    "name": "좋아하는 것들",
-    "description": "제가 좋아하는 제품, 서비스, 마케팅 관련 콘텐츠들을 공유합니다."
-  },
-  "books": {
-    "name": "책 읽기",
-    "description": "다양한 장르의 책을 꾸준히 읽으려고 노력중입니다!\n언제나 책 추천은 환영입니다."
-  },
-  "insight": {
-    "name": "조쉬의 생각",
-    "description": "지극히 개인적인 경험과 생각들을 기록합니다."
-  },
   "marketing": {
-    "name": "마케팅 지식",
-    "description": "이커머스, IT, 교육, 출판 등 다양한 분야의 마케팅 지식을 경험하고 공유합니다."
+    "name": "마케팅",
+    "description": "이커머스, B2B, AI까지 실무에서 부딪히며 배운 마케팅 지식을 정리합니다."
   },
   "career": {
     "name": "커리어",
-    "description": "마케터 취준생을 위한 자료들을 정리하고 있습니다. 추가로 궁금하신 정보는 채팅으로 남겨주세요!"
+    "description": "마케터 취업과 커리어 성장에 필요한 자료와 경험을 나눕니다."
+  },
+  "insight": {
+    "name": "조쉬의 생각",
+    "description": "마케팅과 일에 대한 생각을 짧은 글로 기록합니다."
+  },
+  "retrospective": {
+    "name": "회고",
+    "description": "한 달, 한 분기씩 일과 성장을 돌아봅니다."
+  },
+  "field-notes": {
+    "name": "현장 기록",
+    "description": "커피챗과 컨퍼런스, 행사에서 만난 사람과 배운 것을 기록합니다."
+  },
+  "books": {
+    "name": "책 읽기",
+    "description": "다양한 장르의 책을 꾸준히 읽고 기록합니다. 책 추천은 언제나 환영이에요."
+  },
+  "favorite_things": {
+    "name": "좋아하는 것들",
+    "description": "좋아하는 만화와 취미, 그 안에서 발견한 일의 태도를 기록합니다."
   },
   "skincare": {
     "name": "スキンケア",

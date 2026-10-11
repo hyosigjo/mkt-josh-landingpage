@@ -30,13 +30,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       publishedTime: post.date,
       modifiedTime: post.updated,
       tags: post.tags.map(tagName),
-      images: [post.cover ?? "/og-image.jpg"],
+      images: [post.image],
     },
     twitter: {
       card: "summary_large_image",
       title: post.metaTitle ?? post.title,
       description,
-      images: [post.cover ?? "/og-image.jpg"],
+      images: [post.image],
     },
   };
 }
@@ -60,7 +60,7 @@ export default async function PostPage({ params }: Props) {
     datePublished: post.date,
     dateModified: post.updated ?? post.date,
     author: { "@type": "Person", name: "마케터 조쉬" },
-    ...(post.cover ? { image: `https://mkt.joshlife.co.kr${post.cover}` } : {}),
+    image: `https://mkt.joshlife.co.kr${post.image}`,
     mainEntityOfPage: `https://mkt.joshlife.co.kr/blog/${post.slug}`,
   };
 

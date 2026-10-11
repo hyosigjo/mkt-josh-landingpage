@@ -102,7 +102,7 @@ cover: /blog/images/2026/10/cover.jpg
 
 휴대폰 사진처럼 큰 이미지를 넣었다면 `node scripts/optimize-blog-images.mjs`를 실행하세요. 200KB 넘는 PNG/JPG를 WebP로 바꾸고 글 속 경로까지 자동으로 고쳐줍니다.
 
-태그는 `content/tags.json`에 있는 키(`marketing`, `insight`, `career`, `books`, `favorite_things`, `skincare`)를 쓰고, 새 태그가 필요하면 그 파일에 추가하세요.
+분류(`tags`)는 하나만 적고, 분류 기준과 제목 규칙은 [`docs/blog-guide.md`](docs/blog-guide.md)를 따릅니다. 커버 이미지가 없으면 썸네일이 자동으로 만들어집니다.
 
 ### Ghost에서 옮겨온 방법
 

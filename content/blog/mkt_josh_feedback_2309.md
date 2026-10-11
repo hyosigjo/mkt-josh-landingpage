@@ -1,12 +1,12 @@
 ---
-title: '[Indent] ''Strengths'' - 월간 조쉬 마케터 회고(23년 9월)'
+title: '23년 9월 회고: 나만의 강점을 찾다'
 date: '2023-10-02T09:06:23.000Z'
 updated: '2023-10-02T09:06:58.000Z'
 tags:
-  - insight
+  - retrospective
 excerpt: '나만의 강점, 나만의 플레이 방식을 찾은 9월! 다양한 기회를 통해 숨겨진 재능을 만나는 시간을 가졌습니다.'
 cover: /blog/images/2023/10/9--------.jpg
-coverAlt: '[Indent] ''Strengths'' - 월간 조쉬 마케터 회고(23년 9월)'
+coverAlt: '23년 9월 회고: 나만의 강점을 찾다'
 ---
 
 ## 나만의 강점, 나만의 플레이 방식을 찾은 9월!

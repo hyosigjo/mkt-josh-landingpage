@@ -1,12 +1,12 @@
 ---
-title: '[WARSPEAK] 2달 간의 여정을 마무리하며'
+title: '워스픽 2개월 회고: 몰랐던 ''나의 무기''를 발견한 시간'
 date: '2023-10-28T12:14:31.000Z'
 updated: '2023-10-31T05:42:36.000Z'
 tags:
-  - career
+  - retrospective
 excerpt: 마케터 커뮤니티 <워스픽>에 2달간 참여하면서 찾은 보물 같은 경험들을 정리했습니다.
 cover: /blog/images/2023/10/-------------------.jpg
-coverAlt: '[WARSPEAK] 2달 간의 여정을 마무리하며'
+coverAlt: '워스픽 2개월 회고: 몰랐던 ''나의 무기''를 발견한 시간'
 coverCaption: 워스픽이 본격적으로 시작된 바로 그 날
 featured: 1
 ---

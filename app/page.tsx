@@ -12,11 +12,12 @@ import { getAllPosts, getAllTags } from "@/lib/blog";
 
 const TAG_EMOJI: Record<string, string> = {
   marketing: "📈",
-  insight: "💭",
   career: "🧭",
+  insight: "💭",
+  retrospective: "🗓️",
+  "field-notes": "☕",
   books: "📚",
   favorite_things: "⚽",
-  skincare: "🧴",
 };
 
 const KEYWORDS = [

@@ -1,9 +1,9 @@
 ---
-title: 채널콘 2024 - 'CX가 주인공이 되는 세상'이 온다.
+title: '채널콘 2024 후기: ''CX가 주인공이 되는 세상''이 온다'
 date: '2024-04-06T12:52:04.000Z'
 updated: '2025-04-29T08:10:28.000Z'
 tags:
-  - favorite_things
+  - field-notes
 excerpt: '가슴이 웅장해지는, 채널톡 축제에 다녀왔습니다.'
 cover: /blog/images/2024/04/----------1.jpg
 coverAlt: 채널콘 2024 - 'CX가 주인공이 되는 세상'이 온다

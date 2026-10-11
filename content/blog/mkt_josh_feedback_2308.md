@@ -1,9 +1,9 @@
 ---
-title: '[Indent] ''Networking'' - 월간 조쉬 마케터 회고(23년 8월)'
+title: '23년 8월 회고: 네트워킹으로 만난 인연과 기회'
 date: '2023-09-04T17:16:58.000Z'
 updated: '2023-10-02T09:06:47.000Z'
 tags:
-  - insight
+  - retrospective
 excerpt: '많은 사람을 만나 인사이트를 얻을 수 있었던 8월, 인연 뿐만 아니라 새로운 도전과 기회도 만났다.'
 cover: /blog/images/2023/09/------------23----8--------------------.jpg
 coverAlt: '[Indent] ''Lead Routing'' - 월간 조쉬 마케터 회고(23년 8월)'

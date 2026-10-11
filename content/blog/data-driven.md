@@ -3,7 +3,7 @@ title: 내가 '데이터 드리븐'을 좋아하는 세 가지 이유
 date: '2023-08-30T17:04:38.000Z'
 updated: '2023-09-17T00:57:37.000Z'
 tags:
-  - favorite_things
+  - marketing
 excerpt: '고객과 회사, 그리고 나를 위한 데이터 드리븐'
 cover: /blog/images/2023/08/------.jpeg
 coverAlt: 내가 '데이터 드리븐'을 좋아하는 세 가지 이유

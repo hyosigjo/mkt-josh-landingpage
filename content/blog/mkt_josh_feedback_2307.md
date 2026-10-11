@@ -1,10 +1,9 @@
 ---
-title: '[Indent] ''Lead Routing'' - 월간 조쉬 마케터 회고(23년 7월)'
+title: '23년 7월 회고: 리드 라우팅으로 세일즈 성과 높이기'
 date: '2023-08-08T17:05:30.000Z'
 updated: '2023-08-08T17:05:30.000Z'
 tags:
-  - insight
-  - marketing
+  - retrospective
 excerpt: 이번 달은 다양한 업무 중에서도 그로스팀 전체 성과의 향상을 위한 리드 라우팅 구현에 집중해봤습니다.
 cover: /blog/images/2023/08/7--------.jpg
 coverAlt: ‘전체 성과 향상을 위한 리드 라우팅’

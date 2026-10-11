@@ -1,9 +1,9 @@
 ---
-title: '[useB.] ''Good Bye!'' - 월간 조쉬 마케터 회고 (23년 1월 Part 1.)'
+title: '23년 1월 회고 ①: 유스비를 떠나며, 좋은 퇴사에 대하여'
 date: '2023-02-12T15:27:05.000Z'
 updated: '2023-08-02T15:58:29.000Z'
 tags:
-  - insight
+  - retrospective
 excerpt: '유스비에서의 여정을 마치며, 인수인계와 좋은 퇴사에 대해 생각해보는 시간을 가졌다. Good Bye, useB.'
 cover: /blog/images/2023/08/1--------1.png
 coverAlt: 월간 조쉬 마케터 회고 - 23년 1월 - Part 1.

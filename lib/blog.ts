@@ -14,6 +14,8 @@ export interface PostMeta {
   tags: string[];
   excerpt: string;
   cover?: string;
+  /** 카드·공유용 이미지: 커버가 없으면 자동 생성 썸네일 */
+  image: string;
   coverAlt?: string;
   coverCaption?: string;
   featured: boolean;
@@ -62,6 +64,7 @@ function readPostFile(slug: string): { meta: PostMeta; content: string } | null 
       tags: Array.isArray(data.tags) ? data.tags.map(String) : [],
       excerpt: data.excerpt ? String(data.excerpt) : text.slice(0, 140) + (text.length > 140 ? "…" : ""),
       cover: data.cover || undefined,
+      image: data.cover || `/blog/${slug}/thumbnail.png`,
       coverAlt: data.coverAlt || undefined,
       coverCaption: data.coverCaption || undefined,
       featured: Boolean(data.featured),
@@ -106,9 +109,12 @@ export function getTag(slug: string): TagInfo | null {
 
 export function getAllTags(): TagInfo[] {
   const slugs = new Set(getAllPosts().flatMap((p) => p.tags));
+  // content/tags.json 에 적힌 순서대로, 등록되지 않은 태그는 뒤에
+  const order = Object.keys(TAGS);
+  const rank = (s: string) => (order.includes(s) ? order.indexOf(s) : order.length);
   return [...slugs]
     .map((s) => getTag(s)!)
-    .sort((a, b) => b.count - a.count);
+    .sort((a, b) => rank(a.slug) - rank(b.slug) || b.count - a.count);
 }
 
 export function tagName(slug: string) {
