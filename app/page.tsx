@@ -29,12 +29,6 @@ const KEYWORDS = [
   "일본 시장",
 ];
 
-const PROOF = [
-  { value: "월 100건", label: "ICP 기업의 도입상담 신청" },
-  { value: "40 → 70~100건", label: "인바운드에 광고를 더한 월 상담 신청" },
-  { value: "광고 1개 100건", label: "카피 한 줄을 바꾼 광고의 상담 신청" },
-];
-
 const PRINCIPLES = [
   {
     title: "리드 수보다 상담 수를 봅니다",
@@ -184,9 +178,8 @@ export default function Home() {
             </h1>
             <p className="mt-7 max-w-2xl text-lg leading-relaxed text-ink/75 sm:text-xl">
               세일즈가 꼭 만나야 할 고객을 데려오는 마케터입니다.
-              <br className="hidden sm:block" /> 콘텐츠와 광고로 도입상담
-              신청을 월 100건까지 만들었고, 때로는 직접 계약서에 도장을
-              받았습니다.
+              <br className="hidden sm:block" /> 콘텐츠와 광고로 상담을 만들고,
+              때로는 직접 계약까지 마무리합니다.
             </p>
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <CTAButton href="#about">일하는 방식 보기 →</CTAButton>
@@ -194,22 +187,7 @@ export default function Home() {
                 연락하기
               </CTAButton>
             </div>
-            <dl className="mt-12 grid w-full max-w-3xl gap-3 sm:grid-cols-3">
-              {PROOF.map((item) => (
-                <div
-                  key={item.label}
-                  className="rounded-2xl border-2 border-olive/10 bg-white/70 px-5 py-4"
-                >
-                  <dt className="text-2xl font-extrabold text-olive-deep">
-                    {item.value}
-                  </dt>
-                  <dd className="mt-1 text-sm font-medium text-ink/60">
-                    {item.label}
-                  </dd>
-                </div>
-              ))}
-            </dl>
-            <p className="mt-6 text-sm font-medium text-ink/50">
+            <p className="mt-8 text-sm font-medium text-ink/50">
               B2B 마케팅 5년 · AI · 이커머스 · 글로벌 · 비즈니스 일본어(JLPT N1)
             </p>
           </div>
