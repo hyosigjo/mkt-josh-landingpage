@@ -178,8 +178,8 @@ export default function Home() {
             </h1>
             <p className="mt-7 max-w-2xl text-lg leading-relaxed text-ink/75 sm:text-xl">
               세일즈가 꼭 만나야 할 고객을 데려오는 마케터입니다.
-              <br className="hidden sm:block" /> 사업 런칭부터 월 도입상담
-              100건까지의 성장 기록을 만들어봤습니다.
+              <br className="hidden sm:block" /> 신사업 런칭 팀에서 월
+              도입상담 100건까지의 성장 기록을 만들어봤습니다.
             </p>
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <CTAButton href="#about">일하는 방식 보기 →</CTAButton>
