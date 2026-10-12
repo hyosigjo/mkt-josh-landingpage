@@ -140,7 +140,8 @@ export function formatDate(iso: string) {
 
 const EMOJI_START = /^\s*(\p{Extended_Pictographic}(?:️|‍\p{Extended_Pictographic}|\p{Emoji_Modifier})*)\s*/u;
 
-const marked = new Marked({ gfm: true, breaks: false });
+// 한 줄 바꿈도 줄바꿈으로 표시 (Ghost에서 옮긴 글은 결과가 같음)
+const marked = new Marked({ gfm: true, breaks: true });
 
 // 본문의 [^1] 각주를 글 하단 각주 목록으로
 marked.use(markedFootnote({ description: "각주", refMarkers: false }));
