@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import { Marked, type Tokens } from "marked";
+import markedFootnote from "marked-footnote";
 import tagsJson from "@/content/tags.json";
 
 const BLOG_DIR = path.join(process.cwd(), "content/blog");
@@ -21,6 +22,7 @@ export interface PostMeta {
   featured: boolean;
   metaTitle?: string;
   metaDescription?: string;
+  keywords: string[];
   readingMinutes: number;
 }
 
@@ -52,7 +54,10 @@ function readPostFile(slug: string): { meta: PostMeta; content: string } | null 
   if (!fs.existsSync(file)) return null;
   const { data, content } = matter(fs.readFileSync(file, "utf8"));
   const text = plainText(content);
-  const toISO = (v: unknown) => (v instanceof Date ? v.toISOString() : String(v ?? ""));
+  const toISO = (v: unknown) => {
+    const d = v instanceof Date ? v : new Date(String(v ?? ""));
+    return Number.isNaN(d.getTime()) ? String(v ?? "") : d.toISOString();
+  };
 
   return {
     content,
@@ -62,7 +67,11 @@ function readPostFile(slug: string): { meta: PostMeta; content: string } | null 
       date: toISO(data.date),
       updated: data.updated ? toISO(data.updated) : undefined,
       tags: Array.isArray(data.tags) ? data.tags.map(String) : [],
-      excerpt: data.excerpt ? String(data.excerpt) : text.slice(0, 140) + (text.length > 140 ? "…" : ""),
+      excerpt: data.excerpt
+        ? String(data.excerpt)
+        : data.description
+          ? String(data.description)
+          : text.slice(0, 140) + (text.length > 140 ? "…" : ""),
       cover: data.cover || undefined,
       image: data.cover || `/blog/${slug}/thumbnail.png`,
       coverAlt: data.coverAlt || undefined,
@@ -70,6 +79,7 @@ function readPostFile(slug: string): { meta: PostMeta; content: string } | null 
       featured: Boolean(data.featured),
       metaTitle: data.metaTitle || undefined,
       metaDescription: data.metaDescription || undefined,
+      keywords: Array.isArray(data.keywords) ? data.keywords.map(String) : [],
       // 한국어 기준 분당 약 500자
       readingMinutes: Math.max(1, Math.round(text.length / 500)),
     },
@@ -131,6 +141,9 @@ export function formatDate(iso: string) {
 const EMOJI_START = /^\s*(\p{Extended_Pictographic}(?:️|‍\p{Extended_Pictographic}|\p{Emoji_Modifier})*)\s*/u;
 
 const marked = new Marked({ gfm: true, breaks: false });
+
+// 본문의 [^1] 각주를 글 하단 각주 목록으로
+marked.use(markedFootnote({ description: "각주", refMarkers: false }));
 
 marked.use({
   renderer: {

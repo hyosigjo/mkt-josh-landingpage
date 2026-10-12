@@ -164,3 +164,37 @@ body {
   overflow-x: auto;
   font-size: 0.9em;
 }
+
+.post-body sup a[data-footnote-ref] {
+  padding: 0 0.15em;
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--color-tangerine-deep);
+}
+
+.post-body .footnotes {
+  margin-top: 3em;
+  padding-top: 1.2em;
+  border-top: 2px solid color-mix(in srgb, var(--color-olive) 12%, transparent);
+  font-size: 0.85em;
+  color: color-mix(in srgb, var(--color-ink) 75%, transparent);
+}
+.post-body .footnotes #footnote-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+.post-body .footnotes li {
+  margin: 0.4em 0;
+}
+.post-body .footnotes p {
+  margin: 0;
+}
+.post-body [id^="footnote-"] {
+  scroll-margin-top: 5rem;
+}
+.post-body a[data-footnote-backref] {
+  text-decoration: none;
+}
