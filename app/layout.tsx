@@ -5,9 +5,9 @@ import "./globals.css";
 const siteUrl = "https://mkt.joshlife.co.kr";
 const GTM_ID = "GTM-KXZ6NDGG";
 
-const title = "마케터 조쉬 | 콘텐츠로 고객을 돕는 마케터";
+const title = "마케터 조쉬 | 리드가 아니라 상담을 만드는 B2B 마케터";
 const description =
-  "스타트업에서 마케터로 일하면서 느낀 점과 지식, 경험을 공유합니다. 이커머스·AI 도메인 5년+ B2B 마케터 조쉬의 블로그.";
+  "세일즈가 꼭 만나야 할 고객을 데려오는 B2B 마케터 조쉬입니다. B2B 마케팅 5년, AI·이커머스·글로벌, 비즈니스 일본어(JLPT N1). 일하며 배운 것들을 블로그에 기록합니다.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -20,8 +20,11 @@ export const metadata: Metadata = {
     "마케터 조쉬",
     "B2B 마케팅",
     "인바운드 마케팅",
-    "스타트업 마케팅",
-    "마케터 커리어",
+    "도입상담",
+    "MQL",
+    "메타 광고",
+    "B2B 세일즈",
+    "일본 마케팅",
     "마케팅 블로그",
   ],
   alternates: {

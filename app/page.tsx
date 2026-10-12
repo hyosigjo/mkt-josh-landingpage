@@ -21,11 +21,54 @@ const TAG_EMOJI: Record<string, string> = {
 };
 
 const KEYWORDS = [
-  "B2B 마케팅",
-  "인바운드 퍼널",
-  "CRM · 세일즈",
-  "콘텐츠 · SEO",
-  "커리어 멘토링",
+  "B2B 인바운드",
+  "도입상담 전환",
+  "메타 광고 · 카피라이팅",
+  "세일즈 협업",
+  "AI 에이전트 활용",
+  "일본 시장",
+];
+
+const PROOF = [
+  { value: "월 100건", label: "ICP 기업의 도입상담 신청" },
+  { value: "40 → 70~100건", label: "인바운드에 광고를 더한 월 상담 신청" },
+  { value: "광고 1개 100건", label: "카피 한 줄을 바꾼 광고의 상담 신청" },
+];
+
+const PRINCIPLES = [
+  {
+    title: "리드 수보다 상담 수를 봅니다",
+    body: "연락처가 많다는 사실만으로는 아무것도 시작되지 않습니다. 세일즈가 만날 가치가 있는 고객을 데려오는 것이 마케팅의 일입니다.",
+    slug: "why-i-dropped-mql",
+  },
+  {
+    title: "광고도 잘해야 합니다",
+    body: "고객이 반응할 메시지를 광고 알고리즘과 만나게 하면, 기다리지 않고 직접 고객을 찾아갈 수 있습니다.",
+    slug: "marketers-must-master-ads",
+  },
+  {
+    title: "B2B도 결국 사람의 결정입니다",
+    body: "불안하고, 지치고, 책임이 두려운 담당자의 마음에서 메시지와 팔로업의 답을 찾습니다.",
+    slug: "b2b-decisions-are-emotional",
+  },
+];
+
+const PROFILE = [
+  {
+    label: "경력",
+    value: "B2B 마케팅 5년",
+    detail: "마케팅에서 시작해 세일즈, 사업개발까지 겸직",
+  },
+  {
+    label: "도메인",
+    value: "AI · 이커머스 · 글로벌",
+    detail: "이커머스·AI B2B 솔루션과 일본 시장 사업",
+  },
+  {
+    label: "언어",
+    value: "비즈니스 일본어 · JLPT N1",
+    detail: "일본 현지 기업, 일본인 인플루언서와 3개월 이상 미팅과 팔로업을 직접 진행",
+  },
 ];
 
 function CTAButton({
@@ -79,8 +122,13 @@ function SectionHeading({
 }
 
 export default function Home() {
-  const latest = getAllPosts().slice(0, 6);
+  const posts = getAllPosts();
+  const latest = posts.slice(0, 6);
   const tags = getAllTags();
+  const principles = PRINCIPLES.map((p) => ({
+    ...p,
+    post: posts.find((post) => post.slug === p.slug),
+  }));
 
   return (
     <>
@@ -111,12 +159,13 @@ export default function Home() {
 
           <div className="relative mx-auto flex max-w-6xl flex-col items-center px-5 pt-24 pb-28 text-center sm:pt-32">
             <span className="mb-5 inline-flex items-center gap-2 rounded-full border-2 border-olive/15 bg-white/60 px-5 py-2 text-sm font-bold text-olive">
-              🚢 안녕하세요, 마케터 조쉬입니다
+              🚢 B2B 마케터 조쉬
             </span>
             <h1 className="max-w-3xl text-4xl leading-tight font-extrabold text-olive-deep sm:text-5xl md:text-6xl">
-              콘텐츠로{" "}
+              리드가 아니라,
+              <br />
               <span className="relative inline-block">
-                고객을 돕는
+                상담을
                 <svg
                   className="absolute -bottom-2 left-0 w-full text-tangerine"
                   viewBox="0 0 200 12"
@@ -130,61 +179,126 @@ export default function Home() {
                     strokeLinecap="round"
                   />
                 </svg>
-              </span>
-              <br />
-              마케터
+              </span>{" "}
+              만듭니다
             </h1>
-            <p className="mt-7 max-w-xl text-lg leading-relaxed text-ink/75 sm:text-xl">
-              스타트업에서 마케터로 일하면서 느낀 점과 지식, 경험을 기록하고
-              나눕니다.
+            <p className="mt-7 max-w-2xl text-lg leading-relaxed text-ink/75 sm:text-xl">
+              세일즈가 꼭 만나야 할 고객을 데려오는 마케터입니다.
+              <br className="hidden sm:block" /> 콘텐츠와 광고로 도입상담
+              신청을 월 100건까지 만들었고, 때로는 직접 계약서에 도장을
+              받았습니다.
             </p>
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
-              <CTAButton href="/blog">글 읽으러 가기 →</CTAButton>
+              <CTAButton href="#about">일하는 방식 보기 →</CTAButton>
               <CTAButton href="#contact" variant="secondary">
                 연락하기
               </CTAButton>
             </div>
+            <dl className="mt-12 grid w-full max-w-3xl gap-3 sm:grid-cols-3">
+              {PROOF.map((item) => (
+                <div
+                  key={item.label}
+                  className="rounded-2xl border-2 border-olive/10 bg-white/70 px-5 py-4"
+                >
+                  <dt className="text-2xl font-extrabold text-olive-deep">
+                    {item.value}
+                  </dt>
+                  <dd className="mt-1 text-sm font-medium text-ink/60">
+                    {item.label}
+                  </dd>
+                </div>
+              ))}
+            </dl>
             <p className="mt-6 text-sm font-medium text-ink/50">
-              이커머스 · AI 도메인 5년+ B2B 마케팅
+              B2B 마케팅 5년 · AI · 이커머스 · 글로벌 · 비즈니스 일본어(JLPT N1)
             </p>
           </div>
         </section>
 
         {/* ===== About ===== */}
         <section id="about" className="scroll-mt-16 bg-olive py-20 text-cream">
-          <div className="mx-auto grid max-w-6xl items-center gap-12 px-5 md:grid-cols-[auto_1fr]">
-            <div className="mx-auto flex h-44 w-44 items-center justify-center rounded-full bg-cream md:h-52 md:w-52">
-              <LogoMark className="h-32 w-32 md:h-36 md:w-36" />
-            </div>
-            <div>
-              <span className="mb-3 inline-block rounded-full bg-lime px-4 py-1.5 text-sm font-bold text-olive-deep">
-                About
-              </span>
-              <h2 className="text-3xl font-extrabold sm:text-4xl">
-                좋은 제품이 먼저
-                <br />
-                발견되도록 돕는 마케터
-              </h2>
-              <p className="mt-5 max-w-xl text-lg leading-relaxed text-cream/85">
-                5년 넘게 이커머스와 AI 도메인에서 B2B 마케팅을 해왔습니다.
-                리드가 없던 제품에 인바운드 퍼널을 만들고, 검색과 콘텐츠로
-                꾸준히 문의가 쌓이는 구조를 만드는 일을 가장 좋아합니다.
-              </p>
-              <p className="mt-4 max-w-xl text-lg leading-relaxed text-cream/85">
-                일하며 배운 것들은 블로그에 기록하고, 먼저 걸어본 길은 주니어
-                마케터들과 나누고 있어요.
-              </p>
-              <ul className="mt-7 flex flex-wrap gap-2">
-                {KEYWORDS.map((k) => (
-                  <li
-                    key={k}
-                    className="rounded-full border-2 border-cream/25 px-4 py-1.5 text-sm font-bold text-cream/90"
+          <div className="mx-auto max-w-6xl px-5">
+            <div className="grid items-center gap-12 md:grid-cols-[auto_1fr]">
+              <div className="mx-auto flex h-44 w-44 items-center justify-center rounded-full bg-cream md:h-52 md:w-52">
+                <LogoMark className="h-32 w-32 md:h-36 md:w-36" />
+              </div>
+              <div>
+                <span className="mb-3 inline-block rounded-full bg-lime px-4 py-1.5 text-sm font-bold text-olive-deep">
+                  About
+                </span>
+                <h2 className="text-3xl font-extrabold sm:text-4xl">
+                  패스만 하던 마케터에서,
+                  <br />
+                  골을 넣는 마케터로
+                </h2>
+                <p className="mt-5 max-w-2xl text-lg leading-relaxed text-cream/85">
+                  오랫동안 마케팅은 좋은 패스를 하는 일이라고 생각했습니다.
+                  리드를 모아 “저희 영업팀을 연결해 드릴게요”라고 넘기는
+                  것까지가 제 역할이었죠.
+                </p>
+                <p className="mt-4 max-w-2xl text-lg leading-relaxed text-cream/85">
+                  그런데 마케팅과 세일즈를 겸직하며 직접 견적서를 쓰고 계약서에
+                  도장을 받아본 날, 생각이 바뀌었습니다. 그 뒤로 제 마케팅은
+                  ‘점유’가 아니라 ‘승리’를 향합니다.{" "}
+                  <Link
+                    href="/blog/be-the-striker"
+                    className="font-bold whitespace-nowrap text-lime hover:underline"
                   >
-                    {k}
-                  </li>
-                ))}
-              </ul>
+                    그날의 이야기 →
+                  </Link>
+                </p>
+              </div>
             </div>
+
+            <h3 className="mt-16 text-xl font-extrabold text-lime">
+              이렇게 일합니다
+            </h3>
+            <div className="mt-5 grid gap-4 md:grid-cols-3">
+              {principles.map((p) => (
+                <div
+                  key={p.title}
+                  className="flex flex-col rounded-3xl border-2 border-cream/15 bg-cream/5 p-6"
+                >
+                  <p className="text-lg font-bold">{p.title}</p>
+                  <p className="mt-2 flex-1 leading-relaxed text-cream/75">
+                    {p.body}
+                  </p>
+                  {p.post && (
+                    <Link
+                      href={`/blog/${p.post.slug}`}
+                      className="mt-4 text-sm font-bold text-lime hover:underline"
+                    >
+                      글 읽기: {p.post.title} →
+                    </Link>
+                  )}
+                </div>
+              ))}
+            </div>
+
+            <dl className="mt-10 grid gap-4 border-t-2 border-cream/15 pt-10 md:grid-cols-3">
+              {PROFILE.map((item) => (
+                <div key={item.label}>
+                  <dt className="text-sm font-bold text-lime">{item.label}</dt>
+                  <dd className="mt-1">
+                    <span className="block text-lg font-bold">{item.value}</span>
+                    <span className="mt-1 block text-sm leading-relaxed text-cream/70">
+                      {item.detail}
+                    </span>
+                  </dd>
+                </div>
+              ))}
+            </dl>
+
+            <ul className="mt-10 flex flex-wrap gap-2">
+              {KEYWORDS.map((k) => (
+                <li
+                  key={k}
+                  className="rounded-full border-2 border-cream/25 px-4 py-1.5 text-sm font-bold text-cream/90"
+                >
+                  {k}
+                </li>
+              ))}
+            </ul>
           </div>
         </section>
 
